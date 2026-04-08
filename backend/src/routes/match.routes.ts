@@ -1,14 +1,16 @@
-import {Router} from 'express'
-import { getAllmatchesController, getLivematchesController, getMatchDetailsController, getMatchLineupsController } from '../controllers/match.controller.ts'
+import { Router } from 'express'
+import { getAllmatchesController, getLivematchesController, getMatchDetailsController, getMatchLineupsController, getPremierleagueController } from '../controllers/match.controller.ts'
 
-const router = Router ()
+const router = Router()
 
-router.get ("/All", getAllmatchesController);
+router.get("/All", getAllmatchesController);
 
-router.get ("/Live", getLivematchesController);
+router.get("/Live", getLivematchesController);
 
-router.get ("/Details", getMatchDetailsController);
+router.get("/Premierleague", getPremierleagueController);
 
-router.get ("/Lineups", getMatchLineupsController);
+router.get("/Details", getMatchDetailsController);
+
+router.get("/Lineups", getMatchLineupsController);
 
 export default router;
