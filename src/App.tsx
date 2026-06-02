@@ -1,6 +1,6 @@
 import { useState, useEffect } from 'react';
 import { Layout } from './Components/Layout';
-import Header from './Components/Header';
+import {Header} from './Components/Header';
 import { Tabs } from './Components/Tabs';
 import { MatchList } from './Components/MatchList';
 import { LoadingSpinner } from './Components/Loading';
