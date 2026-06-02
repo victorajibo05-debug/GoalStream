@@ -1,5 +1,5 @@
 import { Router } from 'express'
-import { getAllmatchesController, getLivematchesController, getMatchDetailsController, getMatchLineupsController, getPremierleagueController } from '../controllers/match.controller.ts'
+import { getAllmatchesController, getLivematchesController, getMatchDetailsController, getMatchLineupsController, getPremierleagueController } from '../controllers/match.controller'
 
 const router = Router()
 

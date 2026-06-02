@@ -1,5 +1,5 @@
 import type { Request, Response } from 'express';
-import { getAllmatches, getLivematches, getMatchDetails, getMatchLineups, getPremierleague } from '../services/match.service.ts';
+import { getAllmatches, getLivematches, getMatchDetails, getMatchLineups, getPremierleague } from '../services/match.service';
 
 export const getAllmatchesController = async (req: Request, res: Response) => {
     try {

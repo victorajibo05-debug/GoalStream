@@ -1,13 +1,13 @@
 import { useState, useEffect } from 'react';
 import { Layout } from './Components/Layout';
-import { Header } from './Components/Header';
+import Header from './Components/Header';
 import { Tabs } from './Components/Tabs';
 import { MatchList } from './Components/MatchList';
 import { LoadingSpinner } from './Components/Loading';
 import { footballApi } from './football';
 import type { MatchResponse } from './Components/types/types';
 import { AlertCircle, RefreshCw } from 'lucide-react';
-import { io } from 'socket.io-client';
+
 
 
 
@@ -40,24 +40,8 @@ export default function App() {
         setLoading(false);
       });
 
-    const socket = io("http://localhost:3000");
-
-    socket.on("Allmatches", (data) => {
-      console.log("New data:", data);
-      setAllmatches(data);
-    });
-
-    socket.on("livematches", (data) => {
-      console.log("New data:", data);
-      setlivematches(data);
-    });
 
 
-    //  Cleanup
-    return () => {
-      socket.off("Allmatches")
-      socket.off("livematches");
-    };
   };
 
   // Run once when page loads

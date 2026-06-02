@@ -1,5 +1,5 @@
 import axios from 'axios';
-import { CONFIG } from "../config/env.ts"
+import { CONFIG } from "../config/env"
 
 const headers = {
     'x-apisports-key': CONFIG.API_KEY,
