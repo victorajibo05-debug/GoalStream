@@ -1,0 +1,965 @@
+date,year,tournament,stage,home_team,away_team,home_goals,away_goals,result,extra_time,penalty_shootout
+1930-07-13,1930,1930 FIFA World Cup,group stage,France,Mexico,4,1,H,0,0
+1930-07-13,1930,1930 FIFA World Cup,group stage,United States,Belgium,3,0,H,0,0
+1930-07-14,1930,1930 FIFA World Cup,group stage,Yugoslavia,Brazil,2,1,H,0,0
+1930-07-14,1930,1930 FIFA World Cup,group stage,Romania,Peru,3,1,H,0,0
+1930-07-15,1930,1930 FIFA World Cup,group stage,Argentina,France,1,0,H,0,0
+1930-07-16,1930,1930 FIFA World Cup,group stage,Chile,Mexico,3,0,H,0,0
+1930-07-17,1930,1930 FIFA World Cup,group stage,Yugoslavia,Bolivia,4,0,H,0,0
+1930-07-17,1930,1930 FIFA World Cup,group stage,United States,Paraguay,3,0,H,0,0
+1930-07-18,1930,1930 FIFA World Cup,group stage,Uruguay,Peru,1,0,H,0,0
+1930-07-19,1930,1930 FIFA World Cup,group stage,Chile,France,1,0,H,0,0
+1930-07-19,1930,1930 FIFA World Cup,group stage,Argentina,Mexico,6,3,H,0,0
+1930-07-20,1930,1930 FIFA World Cup,group stage,Brazil,Bolivia,4,0,H,0,0
+1930-07-20,1930,1930 FIFA World Cup,group stage,Paraguay,Belgium,1,0,H,0,0
+1930-07-21,1930,1930 FIFA World Cup,group stage,Uruguay,Romania,4,0,H,0,0
+1930-07-22,1930,1930 FIFA World Cup,group stage,Argentina,Chile,3,1,H,0,0
+1930-07-26,1930,1930 FIFA World Cup,semi-finals,Argentina,United States,6,1,H,0,0
+1930-07-27,1930,1930 FIFA World Cup,semi-finals,Uruguay,Yugoslavia,6,1,H,0,0
+1930-07-30,1930,1930 FIFA World Cup,final,Uruguay,Argentina,4,2,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Austria,France,3,2,H,1,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Czechoslovakia,Romania,2,1,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Germany,Belgium,5,2,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Hungary,Egypt,4,2,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Italy,United States,7,1,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Spain,Brazil,3,1,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Sweden,Argentina,3,2,H,0,0
+1934-05-27,1934,1934 FIFA World Cup,round of 16,Switzerland,Netherlands,3,2,H,0,0
+1934-05-31,1934,1934 FIFA World Cup,quarter-finals,Austria,Hungary,2,1,H,0,0
+1934-05-31,1934,1934 FIFA World Cup,quarter-finals,Czechoslovakia,Switzerland,3,2,H,0,0
+1934-05-31,1934,1934 FIFA World Cup,quarter-finals,Germany,Sweden,2,1,H,0,0
+1934-05-31,1934,1934 FIFA World Cup,quarter-finals,Italy,Spain,1,1,D,1,0
+1934-06-01,1934,1934 FIFA World Cup,quarter-finals,Italy,Spain,1,0,H,0,0
+1934-06-03,1934,1934 FIFA World Cup,semi-finals,Czechoslovakia,Germany,3,1,H,0,0
+1934-06-03,1934,1934 FIFA World Cup,semi-finals,Italy,Austria,1,0,H,0,0
+1934-06-07,1934,1934 FIFA World Cup,third-place match,Germany,Austria,3,2,H,0,0
+1934-06-10,1934,1934 FIFA World Cup,final,Italy,Czechoslovakia,2,1,H,1,0
+1938-06-04,1938,1938 FIFA World Cup,round of 16,Switzerland,Germany,1,1,D,1,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,Cuba,Romania,3,3,D,1,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,France,Belgium,3,1,H,0,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,Hungary,Dutch East Indies,6,0,H,0,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,Italy,Norway,2,1,H,1,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,Brazil,Poland,6,5,H,1,0
+1938-06-05,1938,1938 FIFA World Cup,round of 16,Czechoslovakia,Netherlands,3,0,H,1,0
+1938-06-09,1938,1938 FIFA World Cup,round of 16,Cuba,Romania,2,1,H,0,0
+1938-06-09,1938,1938 FIFA World Cup,round of 16,Switzerland,Germany,4,2,H,0,0
+1938-06-12,1938,1938 FIFA World Cup,quarter-finals,Sweden,Cuba,8,0,H,0,0
+1938-06-12,1938,1938 FIFA World Cup,quarter-finals,Italy,France,3,1,H,0,0
+1938-06-12,1938,1938 FIFA World Cup,quarter-finals,Hungary,Switzerland,2,0,H,0,0
+1938-06-12,1938,1938 FIFA World Cup,quarter-finals,Brazil,Czechoslovakia,1,1,D,1,0
+1938-06-14,1938,1938 FIFA World Cup,quarter-finals,Brazil,Czechoslovakia,2,1,H,0,0
+1938-06-16,1938,1938 FIFA World Cup,semi-finals,Hungary,Sweden,5,1,H,0,0
+1938-06-16,1938,1938 FIFA World Cup,semi-finals,Italy,Brazil,2,1,H,0,0
+1938-06-19,1938,1938 FIFA World Cup,third-place match,Brazil,Sweden,4,2,H,0,0
+1938-06-19,1938,1938 FIFA World Cup,final,Italy,Hungary,4,2,H,0,0
+1950-06-24,1950,1950 FIFA World Cup,group stage,Brazil,Mexico,4,0,H,0,0
+1950-06-25,1950,1950 FIFA World Cup,group stage,Yugoslavia,Switzerland,3,0,H,0,0
+1950-06-25,1950,1950 FIFA World Cup,group stage,England,Chile,2,0,H,0,0
+1950-06-25,1950,1950 FIFA World Cup,group stage,Spain,United States,3,1,H,0,0
+1950-06-25,1950,1950 FIFA World Cup,group stage,Sweden,Italy,3,2,H,0,0
+1950-06-28,1950,1950 FIFA World Cup,group stage,Brazil,Switzerland,2,2,D,0,0
+1950-06-28,1950,1950 FIFA World Cup,group stage,Yugoslavia,Mexico,4,1,H,0,0
+1950-06-29,1950,1950 FIFA World Cup,group stage,Sweden,Paraguay,2,2,D,0,0
+1950-06-29,1950,1950 FIFA World Cup,group stage,Spain,Chile,2,0,H,0,0
+1950-06-29,1950,1950 FIFA World Cup,group stage,United States,England,1,0,H,0,0
+1950-07-01,1950,1950 FIFA World Cup,group stage,Brazil,Yugoslavia,2,0,H,0,0
+1950-07-02,1950,1950 FIFA World Cup,group stage,Chile,United States,5,2,H,0,0
+1950-07-02,1950,1950 FIFA World Cup,group stage,Spain,England,1,0,H,0,0
+1950-07-02,1950,1950 FIFA World Cup,group stage,Italy,Paraguay,2,0,H,0,0
+1950-07-02,1950,1950 FIFA World Cup,group stage,Uruguay,Bolivia,8,0,H,0,0
+1950-07-02,1950,1950 FIFA World Cup,group stage,Switzerland,Mexico,2,1,H,0,0
+1950-07-09,1950,1950 FIFA World Cup,final round,Brazil,Sweden,7,1,H,0,0
+1950-07-09,1950,1950 FIFA World Cup,final round,Uruguay,Spain,2,2,D,0,0
+1950-07-13,1950,1950 FIFA World Cup,final round,Brazil,Spain,6,1,H,0,0
+1950-07-13,1950,1950 FIFA World Cup,final round,Uruguay,Sweden,3,2,H,0,0
+1950-07-16,1950,1950 FIFA World Cup,final round,Sweden,Spain,3,1,H,0,0
+1950-07-16,1950,1950 FIFA World Cup,final round,Uruguay,Brazil,2,1,H,0,0
+1954-06-16,1954,1954 FIFA World Cup,group stage,Uruguay,Czechoslovakia,2,0,H,0,0
+1954-06-16,1954,1954 FIFA World Cup,group stage,Austria,Scotland,1,0,H,0,0
+1954-06-16,1954,1954 FIFA World Cup,group stage,Yugoslavia,France,1,0,H,0,0
+1954-06-16,1954,1954 FIFA World Cup,group stage,Brazil,Mexico,5,0,H,0,0
+1954-06-17,1954,1954 FIFA World Cup,group stage,Switzerland,Italy,2,1,H,0,0
+1954-06-17,1954,1954 FIFA World Cup,group stage,Hungary,South Korea,9,0,H,0,0
+1954-06-17,1954,1954 FIFA World Cup,group stage,West Germany,Turkey,4,1,H,0,0
+1954-06-17,1954,1954 FIFA World Cup,group stage,England,Belgium,4,4,D,1,0
+1954-06-19,1954,1954 FIFA World Cup,group stage,Uruguay,Scotland,7,0,H,0,0
+1954-06-19,1954,1954 FIFA World Cup,group stage,Brazil,Yugoslavia,1,1,D,1,0
+1954-06-19,1954,1954 FIFA World Cup,group stage,Austria,Czechoslovakia,5,0,H,0,0
+1954-06-19,1954,1954 FIFA World Cup,group stage,France,Mexico,3,2,H,0,0
+1954-06-20,1954,1954 FIFA World Cup,group stage,Hungary,West Germany,8,3,H,0,0
+1954-06-20,1954,1954 FIFA World Cup,group stage,Turkey,South Korea,7,0,H,0,0
+1954-06-20,1954,1954 FIFA World Cup,group stage,England,Switzerland,2,0,H,0,0
+1954-06-20,1954,1954 FIFA World Cup,group stage,Italy,Belgium,4,1,H,0,0
+1954-06-23,1954,1954 FIFA World Cup,group stage,Switzerland,Italy,4,1,H,0,0
+1954-06-23,1954,1954 FIFA World Cup,group stage,West Germany,Turkey,7,2,H,0,0
+1954-06-26,1954,1954 FIFA World Cup,quarter-finals,Austria,Switzerland,7,5,H,0,0
+1954-06-26,1954,1954 FIFA World Cup,quarter-finals,Uruguay,England,4,2,H,0,0
+1954-06-27,1954,1954 FIFA World Cup,quarter-finals,Hungary,Brazil,4,2,H,0,0
+1954-06-27,1954,1954 FIFA World Cup,quarter-finals,West Germany,Yugoslavia,2,0,H,0,0
+1954-06-30,1954,1954 FIFA World Cup,semi-finals,Hungary,Uruguay,4,2,H,1,0
+1954-06-30,1954,1954 FIFA World Cup,semi-finals,West Germany,Austria,6,1,H,0,0
+1954-07-03,1954,1954 FIFA World Cup,third-place match,Austria,Uruguay,3,1,H,0,0
+1954-07-04,1954,1954 FIFA World Cup,final,West Germany,Hungary,3,2,H,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Soviet Union,England,2,2,D,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Brazil,Austria,3,0,H,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Hungary,Wales,1,1,D,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Yugoslavia,Scotland,1,1,D,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Northern Ireland,Czechoslovakia,1,0,H,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Argentina,West Germany,1,3,A,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,Sweden,Mexico,3,0,H,0,0
+1958-06-08,1958,1958 FIFA World Cup,group stage,France,Paraguay,7,3,H,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Argentina,Northern Ireland,3,1,H,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,West Germany,Czechoslovakia,2,2,D,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Paraguay,Scotland,3,2,H,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Yugoslavia,France,3,2,H,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Mexico,Wales,1,1,D,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Brazil,England,0,0,D,0,0
+1958-06-11,1958,1958 FIFA World Cup,group stage,Soviet Union,Austria,2,0,H,0,0
+1958-06-12,1958,1958 FIFA World Cup,group stage,Sweden,Hungary,2,1,H,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,Brazil,Soviet Union,2,0,H,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,Hungary,Mexico,4,0,H,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,England,Austria,2,2,D,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,Paraguay,Yugoslavia,3,3,D,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,France,Scotland,2,1,H,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,West Germany,Northern Ireland,2,2,D,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,Czechoslovakia,Argentina,6,1,H,0,0
+1958-06-15,1958,1958 FIFA World Cup,group stage,Sweden,Wales,0,0,D,0,0
+1958-06-17,1958,1958 FIFA World Cup,group stage,Northern Ireland,Czechoslovakia,2,1,H,1,0
+1958-06-17,1958,1958 FIFA World Cup,group stage,Wales,Hungary,2,1,H,0,0
+1958-06-17,1958,1958 FIFA World Cup,group stage,Soviet Union,England,1,0,H,0,0
+1958-06-19,1958,1958 FIFA World Cup,quarter-finals,Brazil,Wales,1,0,H,0,0
+1958-06-19,1958,1958 FIFA World Cup,quarter-finals,France,Northern Ireland,4,0,H,0,0
+1958-06-19,1958,1958 FIFA World Cup,quarter-finals,Sweden,Soviet Union,2,0,H,0,0
+1958-06-19,1958,1958 FIFA World Cup,quarter-finals,West Germany,Yugoslavia,1,0,H,0,0
+1958-06-24,1958,1958 FIFA World Cup,semi-finals,Brazil,France,5,2,H,0,0
+1958-06-24,1958,1958 FIFA World Cup,semi-finals,Sweden,West Germany,3,1,H,0,0
+1958-06-28,1958,1958 FIFA World Cup,third-place match,France,West Germany,6,3,H,0,0
+1958-06-29,1958,1958 FIFA World Cup,final,Brazil,Sweden,5,2,H,0,0
+1962-05-30,1962,1962 FIFA World Cup,group stage,Uruguay,Colombia,2,1,H,0,0
+1962-05-30,1962,1962 FIFA World Cup,group stage,Chile,Switzerland,3,1,H,0,0
+1962-05-30,1962,1962 FIFA World Cup,group stage,Brazil,Mexico,2,0,H,0,0
+1962-05-30,1962,1962 FIFA World Cup,group stage,Argentina,Bulgaria,1,0,H,0,0
+1962-05-31,1962,1962 FIFA World Cup,group stage,Soviet Union,Yugoslavia,2,0,H,0,0
+1962-05-31,1962,1962 FIFA World Cup,group stage,West Germany,Italy,0,0,D,0,0
+1962-05-31,1962,1962 FIFA World Cup,group stage,Czechoslovakia,Spain,1,0,H,0,0
+1962-05-31,1962,1962 FIFA World Cup,group stage,Hungary,England,2,1,H,0,0
+1962-06-02,1962,1962 FIFA World Cup,group stage,Yugoslavia,Uruguay,3,1,H,0,0
+1962-06-02,1962,1962 FIFA World Cup,group stage,Chile,Italy,2,0,H,0,0
+1962-06-02,1962,1962 FIFA World Cup,group stage,Brazil,Czechoslovakia,0,0,D,0,0
+1962-06-02,1962,1962 FIFA World Cup,group stage,England,Argentina,3,1,H,0,0
+1962-06-03,1962,1962 FIFA World Cup,group stage,Spain,Mexico,1,0,H,0,0
+1962-06-03,1962,1962 FIFA World Cup,group stage,Hungary,Bulgaria,6,1,H,0,0
+1962-06-03,1962,1962 FIFA World Cup,group stage,Soviet Union,Colombia,4,4,D,0,0
+1962-06-03,1962,1962 FIFA World Cup,group stage,West Germany,Switzerland,2,1,H,0,0
+1962-06-06,1962,1962 FIFA World Cup,group stage,Soviet Union,Uruguay,2,1,H,0,0
+1962-06-06,1962,1962 FIFA World Cup,group stage,West Germany,Chile,2,0,H,0,0
+1962-06-06,1962,1962 FIFA World Cup,group stage,Brazil,Spain,2,1,H,0,0
+1962-06-06,1962,1962 FIFA World Cup,group stage,Hungary,Argentina,0,0,D,0,0
+1962-06-07,1962,1962 FIFA World Cup,group stage,Yugoslavia,Colombia,5,0,H,0,0
+1962-06-07,1962,1962 FIFA World Cup,group stage,Italy,Switzerland,3,0,H,0,0
+1962-06-07,1962,1962 FIFA World Cup,group stage,Mexico,Czechoslovakia,3,1,H,0,0
+1962-06-07,1962,1962 FIFA World Cup,group stage,England,Bulgaria,0,0,D,0,0
+1962-06-10,1962,1962 FIFA World Cup,quarter-finals,Brazil,England,3,1,H,0,0
+1962-06-10,1962,1962 FIFA World Cup,quarter-finals,Chile,Soviet Union,2,1,H,0,0
+1962-06-10,1962,1962 FIFA World Cup,quarter-finals,Czechoslovakia,Hungary,1,0,H,0,0
+1962-06-10,1962,1962 FIFA World Cup,quarter-finals,Yugoslavia,West Germany,1,0,H,0,0
+1962-06-13,1962,1962 FIFA World Cup,semi-finals,Czechoslovakia,Yugoslavia,3,1,H,0,0
+1962-06-13,1962,1962 FIFA World Cup,semi-finals,Brazil,Chile,4,2,H,0,0
+1962-06-16,1962,1962 FIFA World Cup,third-place match,Chile,Yugoslavia,1,0,H,0,0
+1962-06-17,1962,1962 FIFA World Cup,final,Brazil,Czechoslovakia,3,1,H,0,0
+1966-07-11,1966,1966 FIFA World Cup,group stage,England,Uruguay,0,0,D,0,0
+1966-07-12,1966,1966 FIFA World Cup,group stage,West Germany,Switzerland,5,0,H,0,0
+1966-07-12,1966,1966 FIFA World Cup,group stage,Brazil,Bulgaria,2,0,H,0,0
+1966-07-12,1966,1966 FIFA World Cup,group stage,Soviet Union,North Korea,3,0,H,0,0
+1966-07-13,1966,1966 FIFA World Cup,group stage,Argentina,Spain,2,1,H,0,0
+1966-07-13,1966,1966 FIFA World Cup,group stage,France,Mexico,1,1,D,0,0
+1966-07-13,1966,1966 FIFA World Cup,group stage,Portugal,Hungary,3,1,H,0,0
+1966-07-13,1966,1966 FIFA World Cup,group stage,Italy,Chile,2,0,H,0,0
+1966-07-15,1966,1966 FIFA World Cup,group stage,Uruguay,France,2,1,H,0,0
+1966-07-15,1966,1966 FIFA World Cup,group stage,Spain,Switzerland,2,1,H,0,0
+1966-07-15,1966,1966 FIFA World Cup,group stage,Hungary,Brazil,3,1,H,0,0
+1966-07-15,1966,1966 FIFA World Cup,group stage,Chile,North Korea,1,1,D,0,0
+1966-07-16,1966,1966 FIFA World Cup,group stage,England,Mexico,2,0,H,0,0
+1966-07-16,1966,1966 FIFA World Cup,group stage,Soviet Union,Italy,1,0,H,0,0
+1966-07-16,1966,1966 FIFA World Cup,group stage,Portugal,Bulgaria,3,0,H,0,0
+1966-07-16,1966,1966 FIFA World Cup,group stage,Argentina,West Germany,0,0,D,0,0
+1966-07-19,1966,1966 FIFA World Cup,group stage,Mexico,Uruguay,0,0,D,0,0
+1966-07-19,1966,1966 FIFA World Cup,group stage,Argentina,Switzerland,2,0,H,0,0
+1966-07-19,1966,1966 FIFA World Cup,group stage,Portugal,Brazil,3,1,H,0,0
+1966-07-19,1966,1966 FIFA World Cup,group stage,North Korea,Italy,1,0,H,0,0
+1966-07-20,1966,1966 FIFA World Cup,group stage,England,France,2,0,H,0,0
+1966-07-20,1966,1966 FIFA World Cup,group stage,West Germany,Spain,2,1,H,0,0
+1966-07-20,1966,1966 FIFA World Cup,group stage,Hungary,Bulgaria,3,1,H,0,0
+1966-07-20,1966,1966 FIFA World Cup,group stage,Soviet Union,Chile,2,1,H,0,0
+1966-07-23,1966,1966 FIFA World Cup,quarter-finals,England,Argentina,1,0,H,0,0
+1966-07-23,1966,1966 FIFA World Cup,quarter-finals,Portugal,North Korea,5,3,H,0,0
+1966-07-23,1966,1966 FIFA World Cup,quarter-finals,Soviet Union,Hungary,2,1,H,0,0
+1966-07-23,1966,1966 FIFA World Cup,quarter-finals,West Germany,Uruguay,4,0,H,0,0
+1966-07-25,1966,1966 FIFA World Cup,semi-finals,West Germany,Soviet Union,2,1,H,0,0
+1966-07-26,1966,1966 FIFA World Cup,semi-finals,England,Portugal,2,1,H,0,0
+1966-07-28,1966,1966 FIFA World Cup,third-place match,Portugal,Soviet Union,2,1,H,0,0
+1966-07-30,1966,1966 FIFA World Cup,final,England,West Germany,4,2,H,1,0
+1970-05-31,1970,1970 FIFA World Cup,group stage,Mexico,Soviet Union,0,0,D,0,0
+1970-06-02,1970,1970 FIFA World Cup,group stage,Uruguay,Israel,2,0,H,0,0
+1970-06-02,1970,1970 FIFA World Cup,group stage,England,Romania,1,0,H,0,0
+1970-06-02,1970,1970 FIFA World Cup,group stage,Peru,Bulgaria,3,2,H,0,0
+1970-06-03,1970,1970 FIFA World Cup,group stage,Belgium,El Salvador,3,0,H,0,0
+1970-06-03,1970,1970 FIFA World Cup,group stage,Italy,Sweden,1,0,H,0,0
+1970-06-03,1970,1970 FIFA World Cup,group stage,Brazil,Czechoslovakia,4,1,H,0,0
+1970-06-03,1970,1970 FIFA World Cup,group stage,West Germany,Morocco,2,1,H,0,0
+1970-06-06,1970,1970 FIFA World Cup,group stage,Soviet Union,Belgium,4,1,H,0,0
+1970-06-06,1970,1970 FIFA World Cup,group stage,Uruguay,Italy,0,0,D,0,0
+1970-06-06,1970,1970 FIFA World Cup,group stage,Romania,Czechoslovakia,2,1,H,0,0
+1970-06-06,1970,1970 FIFA World Cup,group stage,Peru,Morocco,3,0,H,0,0
+1970-06-07,1970,1970 FIFA World Cup,group stage,West Germany,Bulgaria,5,2,H,0,0
+1970-06-07,1970,1970 FIFA World Cup,group stage,Brazil,England,1,0,H,0,0
+1970-06-07,1970,1970 FIFA World Cup,group stage,Mexico,El Salvador,4,0,H,0,0
+1970-06-07,1970,1970 FIFA World Cup,group stage,Sweden,Israel,1,1,D,0,0
+1970-06-10,1970,1970 FIFA World Cup,group stage,Soviet Union,El Salvador,2,0,H,0,0
+1970-06-10,1970,1970 FIFA World Cup,group stage,Sweden,Uruguay,1,0,H,0,0
+1970-06-10,1970,1970 FIFA World Cup,group stage,Brazil,Romania,3,2,H,0,0
+1970-06-10,1970,1970 FIFA World Cup,group stage,West Germany,Peru,3,1,H,0,0
+1970-06-11,1970,1970 FIFA World Cup,group stage,Mexico,Belgium,1,0,H,0,0
+1970-06-11,1970,1970 FIFA World Cup,group stage,Italy,Israel,0,0,D,0,0
+1970-06-11,1970,1970 FIFA World Cup,group stage,England,Czechoslovakia,1,0,H,0,0
+1970-06-11,1970,1970 FIFA World Cup,group stage,Bulgaria,Morocco,1,1,D,0,0
+1970-06-14,1970,1970 FIFA World Cup,quarter-finals,West Germany,England,3,2,H,1,0
+1970-06-14,1970,1970 FIFA World Cup,quarter-finals,Brazil,Peru,4,2,H,0,0
+1970-06-14,1970,1970 FIFA World Cup,quarter-finals,Italy,Mexico,4,1,H,0,0
+1970-06-14,1970,1970 FIFA World Cup,quarter-finals,Soviet Union,Uruguay,0,1,A,1,0
+1970-06-17,1970,1970 FIFA World Cup,semi-finals,Italy,West Germany,4,3,H,1,0
+1970-06-17,1970,1970 FIFA World Cup,semi-finals,Brazil,Uruguay,3,1,H,0,0
+1970-06-20,1970,1970 FIFA World Cup,third-place match,West Germany,Uruguay,1,0,H,0,0
+1970-06-21,1970,1970 FIFA World Cup,final,Brazil,Italy,4,1,H,0,0
+1974-06-13,1974,1974 FIFA World Cup,group stage,Brazil,Yugoslavia,0,0,D,0,0
+1974-06-14,1974,1974 FIFA World Cup,group stage,West Germany,Chile,1,0,H,0,0
+1974-06-14,1974,1974 FIFA World Cup,group stage,East Germany,Australia,2,0,H,0,0
+1974-06-14,1974,1974 FIFA World Cup,group stage,Zaire,Scotland,0,2,A,0,0
+1974-06-15,1974,1974 FIFA World Cup,group stage,Sweden,Bulgaria,0,0,D,0,0
+1974-06-15,1974,1974 FIFA World Cup,group stage,Uruguay,Netherlands,0,2,A,0,0
+1974-06-15,1974,1974 FIFA World Cup,group stage,Italy,Haiti,3,1,H,0,0
+1974-06-15,1974,1974 FIFA World Cup,group stage,Poland,Argentina,3,2,H,0,0
+1974-06-18,1974,1974 FIFA World Cup,group stage,Yugoslavia,Zaire,9,0,H,0,0
+1974-06-18,1974,1974 FIFA World Cup,group stage,Scotland,Brazil,0,0,D,0,0
+1974-06-18,1974,1974 FIFA World Cup,group stage,Australia,West Germany,0,3,A,0,0
+1974-06-18,1974,1974 FIFA World Cup,group stage,Chile,East Germany,1,1,D,0,0
+1974-06-19,1974,1974 FIFA World Cup,group stage,Bulgaria,Uruguay,1,1,D,0,0
+1974-06-19,1974,1974 FIFA World Cup,group stage,Netherlands,Sweden,0,0,D,0,0
+1974-06-19,1974,1974 FIFA World Cup,group stage,Argentina,Italy,1,1,D,0,0
+1974-06-19,1974,1974 FIFA World Cup,group stage,Haiti,Poland,0,7,A,0,0
+1974-06-22,1974,1974 FIFA World Cup,group stage,Australia,Chile,0,0,D,0,0
+1974-06-22,1974,1974 FIFA World Cup,group stage,Scotland,Yugoslavia,1,1,D,0,0
+1974-06-22,1974,1974 FIFA World Cup,group stage,Zaire,Brazil,0,3,A,0,0
+1974-06-22,1974,1974 FIFA World Cup,group stage,East Germany,West Germany,1,0,H,0,0
+1974-06-23,1974,1974 FIFA World Cup,group stage,Bulgaria,Netherlands,1,4,A,0,0
+1974-06-23,1974,1974 FIFA World Cup,group stage,Sweden,Uruguay,3,0,H,0,0
+1974-06-23,1974,1974 FIFA World Cup,group stage,Argentina,Haiti,4,1,H,0,0
+1974-06-23,1974,1974 FIFA World Cup,group stage,Poland,Italy,2,1,H,0,0
+1974-06-26,1974,1974 FIFA World Cup,second group stage,Sweden,Poland,0,1,A,0,0
+1974-06-26,1974,1974 FIFA World Cup,second group stage,Netherlands,Argentina,4,0,H,0,0
+1974-06-26,1974,1974 FIFA World Cup,second group stage,Yugoslavia,West Germany,0,2,A,0,0
+1974-06-26,1974,1974 FIFA World Cup,second group stage,Brazil,East Germany,1,0,H,0,0
+1974-06-30,1974,1974 FIFA World Cup,second group stage,Argentina,Brazil,1,2,A,0,0
+1974-06-30,1974,1974 FIFA World Cup,second group stage,East Germany,Netherlands,0,2,A,0,0
+1974-06-30,1974,1974 FIFA World Cup,second group stage,Poland,Yugoslavia,2,1,H,0,0
+1974-06-30,1974,1974 FIFA World Cup,second group stage,West Germany,Sweden,4,2,H,0,0
+1974-07-03,1974,1974 FIFA World Cup,second group stage,Poland,West Germany,0,1,A,0,0
+1974-07-03,1974,1974 FIFA World Cup,second group stage,Argentina,East Germany,1,1,D,0,0
+1974-07-03,1974,1974 FIFA World Cup,second group stage,Netherlands,Brazil,2,0,H,0,0
+1974-07-03,1974,1974 FIFA World Cup,second group stage,Sweden,Yugoslavia,2,1,H,0,0
+1974-07-06,1974,1974 FIFA World Cup,third-place match,Brazil,Poland,0,1,A,0,0
+1974-07-07,1974,1974 FIFA World Cup,final,Netherlands,West Germany,1,2,A,0,0
+1978-06-01,1978,1978 FIFA World Cup,group stage,West Germany,Poland,0,0,D,0,0
+1978-06-02,1978,1978 FIFA World Cup,group stage,Italy,France,2,1,H,0,0
+1978-06-02,1978,1978 FIFA World Cup,group stage,Tunisia,Mexico,3,1,H,0,0
+1978-06-02,1978,1978 FIFA World Cup,group stage,Argentina,Hungary,2,1,H,0,0
+1978-06-03,1978,1978 FIFA World Cup,group stage,Austria,Spain,2,1,H,0,0
+1978-06-03,1978,1978 FIFA World Cup,group stage,Brazil,Sweden,1,1,D,0,0
+1978-06-03,1978,1978 FIFA World Cup,group stage,Netherlands,Iran,3,0,H,0,0
+1978-06-03,1978,1978 FIFA World Cup,group stage,Peru,Scotland,3,1,H,0,0
+1978-06-06,1978,1978 FIFA World Cup,group stage,Italy,Hungary,3,1,H,0,0
+1978-06-06,1978,1978 FIFA World Cup,group stage,Poland,Tunisia,1,0,H,0,0
+1978-06-06,1978,1978 FIFA World Cup,group stage,West Germany,Mexico,6,0,H,0,0
+1978-06-06,1978,1978 FIFA World Cup,group stage,Argentina,France,2,1,H,0,0
+1978-06-07,1978,1978 FIFA World Cup,group stage,Scotland,Iran,1,1,D,0,0
+1978-06-07,1978,1978 FIFA World Cup,group stage,Netherlands,Peru,0,0,D,0,0
+1978-06-07,1978,1978 FIFA World Cup,group stage,Austria,Sweden,1,0,H,0,0
+1978-06-07,1978,1978 FIFA World Cup,group stage,Brazil,Spain,0,0,D,0,0
+1978-06-10,1978,1978 FIFA World Cup,group stage,France,Hungary,3,1,H,0,0
+1978-06-10,1978,1978 FIFA World Cup,group stage,Poland,Mexico,3,1,H,0,0
+1978-06-10,1978,1978 FIFA World Cup,group stage,West Germany,Tunisia,0,0,D,0,0
+1978-06-10,1978,1978 FIFA World Cup,group stage,Argentina,Italy,0,1,A,0,0
+1978-06-11,1978,1978 FIFA World Cup,group stage,Brazil,Austria,1,0,H,0,0
+1978-06-11,1978,1978 FIFA World Cup,group stage,Spain,Sweden,1,0,H,0,0
+1978-06-11,1978,1978 FIFA World Cup,group stage,Peru,Iran,4,1,H,0,0
+1978-06-11,1978,1978 FIFA World Cup,group stage,Scotland,Netherlands,3,2,H,0,0
+1978-06-14,1978,1978 FIFA World Cup,second group stage,Argentina,Poland,2,0,H,0,0
+1978-06-14,1978,1978 FIFA World Cup,second group stage,Austria,Netherlands,1,5,A,0,0
+1978-06-14,1978,1978 FIFA World Cup,second group stage,Italy,West Germany,0,0,D,0,0
+1978-06-14,1978,1978 FIFA World Cup,second group stage,Brazil,Peru,3,0,H,0,0
+1978-06-18,1978,1978 FIFA World Cup,second group stage,Netherlands,West Germany,2,2,D,0,0
+1978-06-18,1978,1978 FIFA World Cup,second group stage,Argentina,Brazil,0,0,D,0,0
+1978-06-18,1978,1978 FIFA World Cup,second group stage,Peru,Poland,0,1,A,0,0
+1978-06-18,1978,1978 FIFA World Cup,second group stage,Italy,Austria,1,0,H,0,0
+1978-06-21,1978,1978 FIFA World Cup,second group stage,Austria,West Germany,3,2,H,0,0
+1978-06-21,1978,1978 FIFA World Cup,second group stage,Italy,Netherlands,1,2,A,0,0
+1978-06-21,1978,1978 FIFA World Cup,second group stage,Brazil,Poland,3,1,H,0,0
+1978-06-21,1978,1978 FIFA World Cup,second group stage,Argentina,Peru,6,0,H,0,0
+1978-06-24,1978,1978 FIFA World Cup,third-place match,Brazil,Italy,2,1,H,0,0
+1978-06-25,1978,1978 FIFA World Cup,final,Argentina,Netherlands,3,1,H,1,0
+1982-06-13,1982,1982 FIFA World Cup,group stage,Argentina,Belgium,0,1,A,0,0
+1982-06-14,1982,1982 FIFA World Cup,group stage,Italy,Poland,0,0,D,0,0
+1982-06-14,1982,1982 FIFA World Cup,group stage,Brazil,Soviet Union,2,1,H,0,0
+1982-06-15,1982,1982 FIFA World Cup,group stage,Peru,Cameroon,0,0,D,0,0
+1982-06-15,1982,1982 FIFA World Cup,group stage,Hungary,El Salvador,10,1,H,0,0
+1982-06-15,1982,1982 FIFA World Cup,group stage,Scotland,New Zealand,5,2,H,0,0
+1982-06-16,1982,1982 FIFA World Cup,group stage,Spain,Honduras,1,1,D,0,0
+1982-06-16,1982,1982 FIFA World Cup,group stage,England,France,3,1,H,0,0
+1982-06-16,1982,1982 FIFA World Cup,group stage,West Germany,Algeria,1,2,A,0,0
+1982-06-17,1982,1982 FIFA World Cup,group stage,Chile,Austria,0,1,A,0,0
+1982-06-17,1982,1982 FIFA World Cup,group stage,Czechoslovakia,Kuwait,1,1,D,0,0
+1982-06-17,1982,1982 FIFA World Cup,group stage,Yugoslavia,Northern Ireland,0,0,D,0,0
+1982-06-18,1982,1982 FIFA World Cup,group stage,Italy,Peru,1,1,D,0,0
+1982-06-18,1982,1982 FIFA World Cup,group stage,Argentina,Hungary,4,1,H,0,0
+1982-06-18,1982,1982 FIFA World Cup,group stage,Brazil,Scotland,4,1,H,0,0
+1982-06-19,1982,1982 FIFA World Cup,group stage,Poland,Cameroon,0,0,D,0,0
+1982-06-19,1982,1982 FIFA World Cup,group stage,Belgium,El Salvador,1,0,H,0,0
+1982-06-19,1982,1982 FIFA World Cup,group stage,Soviet Union,New Zealand,3,0,H,0,0
+1982-06-20,1982,1982 FIFA World Cup,group stage,Spain,Yugoslavia,2,1,H,0,0
+1982-06-20,1982,1982 FIFA World Cup,group stage,West Germany,Chile,4,1,H,0,0
+1982-06-20,1982,1982 FIFA World Cup,group stage,England,Czechoslovakia,2,0,H,0,0
+1982-06-21,1982,1982 FIFA World Cup,group stage,Honduras,Northern Ireland,1,1,D,0,0
+1982-06-21,1982,1982 FIFA World Cup,group stage,France,Kuwait,4,1,H,0,0
+1982-06-21,1982,1982 FIFA World Cup,group stage,Algeria,Austria,0,2,A,0,0
+1982-06-22,1982,1982 FIFA World Cup,group stage,Poland,Peru,5,1,H,0,0
+1982-06-22,1982,1982 FIFA World Cup,group stage,Belgium,Hungary,1,1,D,0,0
+1982-06-22,1982,1982 FIFA World Cup,group stage,Soviet Union,Scotland,2,2,D,0,0
+1982-06-23,1982,1982 FIFA World Cup,group stage,Italy,Cameroon,1,1,D,0,0
+1982-06-23,1982,1982 FIFA World Cup,group stage,Argentina,El Salvador,2,0,H,0,0
+1982-06-23,1982,1982 FIFA World Cup,group stage,Brazil,New Zealand,4,0,H,0,0
+1982-06-24,1982,1982 FIFA World Cup,group stage,Algeria,Chile,3,2,H,0,0
+1982-06-24,1982,1982 FIFA World Cup,group stage,France,Czechoslovakia,1,1,D,0,0
+1982-06-24,1982,1982 FIFA World Cup,group stage,Honduras,Yugoslavia,0,1,A,0,0
+1982-06-25,1982,1982 FIFA World Cup,group stage,West Germany,Austria,1,0,H,0,0
+1982-06-25,1982,1982 FIFA World Cup,group stage,England,Kuwait,1,0,H,0,0
+1982-06-25,1982,1982 FIFA World Cup,group stage,Spain,Northern Ireland,0,1,A,0,0
+1982-06-28,1982,1982 FIFA World Cup,second group stage,Poland,Belgium,3,0,H,0,0
+1982-06-28,1982,1982 FIFA World Cup,second group stage,Austria,France,0,1,A,0,0
+1982-06-29,1982,1982 FIFA World Cup,second group stage,Italy,Argentina,2,1,H,0,0
+1982-06-29,1982,1982 FIFA World Cup,second group stage,West Germany,England,0,0,D,0,0
+1982-07-01,1982,1982 FIFA World Cup,second group stage,Austria,Northern Ireland,2,2,D,0,0
+1982-07-01,1982,1982 FIFA World Cup,second group stage,Belgium,Soviet Union,0,1,A,0,0
+1982-07-02,1982,1982 FIFA World Cup,second group stage,Argentina,Brazil,1,3,A,0,0
+1982-07-02,1982,1982 FIFA World Cup,second group stage,West Germany,Spain,2,1,H,0,0
+1982-07-04,1982,1982 FIFA World Cup,second group stage,France,Northern Ireland,4,1,H,0,0
+1982-07-04,1982,1982 FIFA World Cup,second group stage,Soviet Union,Poland,0,0,D,0,0
+1982-07-05,1982,1982 FIFA World Cup,second group stage,Italy,Brazil,3,2,H,0,0
+1982-07-05,1982,1982 FIFA World Cup,second group stage,Spain,England,0,0,D,0,0
+1982-07-08,1982,1982 FIFA World Cup,semi-finals,Poland,Italy,0,2,A,0,0
+1982-07-08,1982,1982 FIFA World Cup,semi-finals,West Germany,France,3,3,H,1,1
+1982-07-10,1982,1982 FIFA World Cup,third-place match,Poland,France,3,2,H,0,0
+1982-07-11,1982,1982 FIFA World Cup,final,Italy,West Germany,3,1,H,0,0
+1986-05-31,1986,1986 FIFA World Cup,group stage,Bulgaria,Italy,1,1,D,0,0
+1986-06-01,1986,1986 FIFA World Cup,group stage,Canada,France,0,1,A,0,0
+1986-06-01,1986,1986 FIFA World Cup,group stage,Spain,Brazil,0,1,A,0,0
+1986-06-02,1986,1986 FIFA World Cup,group stage,Argentina,South Korea,3,1,H,0,0
+1986-06-02,1986,1986 FIFA World Cup,group stage,Soviet Union,Hungary,6,0,H,0,0
+1986-06-02,1986,1986 FIFA World Cup,group stage,Morocco,Poland,0,0,D,0,0
+1986-06-03,1986,1986 FIFA World Cup,group stage,Belgium,Mexico,1,2,A,0,0
+1986-06-03,1986,1986 FIFA World Cup,group stage,Algeria,Northern Ireland,1,1,D,0,0
+1986-06-03,1986,1986 FIFA World Cup,group stage,Portugal,England,1,0,H,0,0
+1986-06-04,1986,1986 FIFA World Cup,group stage,Paraguay,Iraq,1,0,H,0,0
+1986-06-04,1986,1986 FIFA World Cup,group stage,Uruguay,West Germany,1,1,D,0,0
+1986-06-04,1986,1986 FIFA World Cup,group stage,Scotland,Denmark,0,1,A,0,0
+1986-06-05,1986,1986 FIFA World Cup,group stage,Italy,Argentina,1,1,D,0,0
+1986-06-05,1986,1986 FIFA World Cup,group stage,France,Soviet Union,1,1,D,0,0
+1986-06-05,1986,1986 FIFA World Cup,group stage,South Korea,Bulgaria,1,1,D,0,0
+1986-06-06,1986,1986 FIFA World Cup,group stage,England,Morocco,0,0,D,0,0
+1986-06-06,1986,1986 FIFA World Cup,group stage,Hungary,Canada,2,0,H,0,0
+1986-06-06,1986,1986 FIFA World Cup,group stage,Brazil,Algeria,1,0,H,0,0
+1986-06-07,1986,1986 FIFA World Cup,group stage,Mexico,Paraguay,1,1,D,0,0
+1986-06-07,1986,1986 FIFA World Cup,group stage,Northern Ireland,Spain,1,2,A,0,0
+1986-06-07,1986,1986 FIFA World Cup,group stage,Poland,Portugal,1,0,H,0,0
+1986-06-08,1986,1986 FIFA World Cup,group stage,Iraq,Belgium,1,2,A,0,0
+1986-06-08,1986,1986 FIFA World Cup,group stage,West Germany,Scotland,2,1,H,0,0
+1986-06-08,1986,1986 FIFA World Cup,group stage,Denmark,Uruguay,6,1,H,0,0
+1986-06-09,1986,1986 FIFA World Cup,group stage,Hungary,France,0,3,A,0,0
+1986-06-09,1986,1986 FIFA World Cup,group stage,Soviet Union,Canada,2,0,H,0,0
+1986-06-10,1986,1986 FIFA World Cup,group stage,South Korea,Italy,2,3,A,0,0
+1986-06-10,1986,1986 FIFA World Cup,group stage,Argentina,Bulgaria,2,0,H,0,0
+1986-06-11,1986,1986 FIFA World Cup,group stage,Portugal,Morocco,1,3,A,0,0
+1986-06-11,1986,1986 FIFA World Cup,group stage,England,Poland,3,0,H,0,0
+1986-06-11,1986,1986 FIFA World Cup,group stage,Iraq,Mexico,0,1,A,0,0
+1986-06-11,1986,1986 FIFA World Cup,group stage,Paraguay,Belgium,2,2,D,0,0
+1986-06-12,1986,1986 FIFA World Cup,group stage,Algeria,Spain,0,3,A,0,0
+1986-06-12,1986,1986 FIFA World Cup,group stage,Northern Ireland,Brazil,0,3,A,0,0
+1986-06-13,1986,1986 FIFA World Cup,group stage,Denmark,West Germany,2,0,H,0,0
+1986-06-13,1986,1986 FIFA World Cup,group stage,Scotland,Uruguay,0,0,D,0,0
+1986-06-15,1986,1986 FIFA World Cup,round of 16,Mexico,Bulgaria,2,0,H,0,0
+1986-06-15,1986,1986 FIFA World Cup,round of 16,Soviet Union,Belgium,3,4,A,1,0
+1986-06-16,1986,1986 FIFA World Cup,round of 16,Brazil,Poland,4,0,H,0,0
+1986-06-16,1986,1986 FIFA World Cup,round of 16,Argentina,Uruguay,1,0,H,0,0
+1986-06-17,1986,1986 FIFA World Cup,round of 16,Italy,France,0,2,A,0,0
+1986-06-17,1986,1986 FIFA World Cup,round of 16,Morocco,West Germany,0,1,A,0,0
+1986-06-18,1986,1986 FIFA World Cup,round of 16,Denmark,Spain,1,5,A,0,0
+1986-06-18,1986,1986 FIFA World Cup,round of 16,England,Paraguay,3,0,H,0,0
+1986-06-21,1986,1986 FIFA World Cup,quarter-finals,West Germany,Mexico,0,0,H,1,1
+1986-06-21,1986,1986 FIFA World Cup,quarter-finals,Brazil,France,1,1,A,1,1
+1986-06-22,1986,1986 FIFA World Cup,quarter-finals,Argentina,England,2,1,H,0,0
+1986-06-22,1986,1986 FIFA World Cup,quarter-finals,Spain,Belgium,1,1,A,1,1
+1986-06-25,1986,1986 FIFA World Cup,semi-finals,France,West Germany,0,2,A,0,0
+1986-06-25,1986,1986 FIFA World Cup,semi-finals,Argentina,Belgium,2,0,H,0,0
+1986-06-28,1986,1986 FIFA World Cup,third-place match,Belgium,France,2,4,A,1,0
+1986-06-29,1986,1986 FIFA World Cup,final,Argentina,West Germany,3,2,H,0,0
+1990-06-08,1990,1990 FIFA World Cup,group stage,Argentina,Cameroon,0,1,A,0,0
+1990-06-09,1990,1990 FIFA World Cup,group stage,Soviet Union,Romania,0,2,A,0,0
+1990-06-09,1990,1990 FIFA World Cup,group stage,United Arab Emirates,Colombia,0,2,A,0,0
+1990-06-09,1990,1990 FIFA World Cup,group stage,Italy,Austria,1,0,H,0,0
+1990-06-10,1990,1990 FIFA World Cup,group stage,Brazil,Sweden,2,1,H,0,0
+1990-06-10,1990,1990 FIFA World Cup,group stage,West Germany,Yugoslavia,4,1,H,0,0
+1990-06-10,1990,1990 FIFA World Cup,group stage,United States,Czechoslovakia,1,5,A,0,0
+1990-06-11,1990,1990 FIFA World Cup,group stage,England,Republic of Ireland,1,1,D,0,0
+1990-06-11,1990,1990 FIFA World Cup,group stage,Costa Rica,Scotland,1,0,H,0,0
+1990-06-12,1990,1990 FIFA World Cup,group stage,Belgium,South Korea,2,0,H,0,0
+1990-06-12,1990,1990 FIFA World Cup,group stage,Netherlands,Egypt,1,1,D,0,0
+1990-06-13,1990,1990 FIFA World Cup,group stage,Uruguay,Spain,0,0,D,0,0
+1990-06-13,1990,1990 FIFA World Cup,group stage,Argentina,Soviet Union,2,0,H,0,0
+1990-06-14,1990,1990 FIFA World Cup,group stage,Cameroon,Romania,2,1,H,0,0
+1990-06-14,1990,1990 FIFA World Cup,group stage,Yugoslavia,Colombia,1,0,H,0,0
+1990-06-14,1990,1990 FIFA World Cup,group stage,Italy,United States,1,0,H,0,0
+1990-06-15,1990,1990 FIFA World Cup,group stage,Austria,Czechoslovakia,0,1,A,0,0
+1990-06-15,1990,1990 FIFA World Cup,group stage,West Germany,United Arab Emirates,5,1,H,0,0
+1990-06-16,1990,1990 FIFA World Cup,group stage,Brazil,Costa Rica,1,0,H,0,0
+1990-06-16,1990,1990 FIFA World Cup,group stage,Sweden,Scotland,1,2,A,0,0
+1990-06-16,1990,1990 FIFA World Cup,group stage,England,Netherlands,0,0,D,0,0
+1990-06-17,1990,1990 FIFA World Cup,group stage,South Korea,Spain,1,3,A,0,0
+1990-06-17,1990,1990 FIFA World Cup,group stage,Belgium,Uruguay,3,1,H,0,0
+1990-06-17,1990,1990 FIFA World Cup,group stage,Republic of Ireland,Egypt,0,0,D,0,0
+1990-06-18,1990,1990 FIFA World Cup,group stage,Argentina,Romania,1,1,D,0,0
+1990-06-18,1990,1990 FIFA World Cup,group stage,Cameroon,Soviet Union,0,4,A,0,0
+1990-06-19,1990,1990 FIFA World Cup,group stage,West Germany,Colombia,1,1,D,0,0
+1990-06-19,1990,1990 FIFA World Cup,group stage,Yugoslavia,United Arab Emirates,4,1,H,0,0
+1990-06-19,1990,1990 FIFA World Cup,group stage,Austria,United States,2,1,H,0,0
+1990-06-19,1990,1990 FIFA World Cup,group stage,Italy,Czechoslovakia,2,0,H,0,0
+1990-06-20,1990,1990 FIFA World Cup,group stage,Brazil,Scotland,1,0,H,0,0
+1990-06-20,1990,1990 FIFA World Cup,group stage,Sweden,Costa Rica,1,2,A,0,0
+1990-06-21,1990,1990 FIFA World Cup,group stage,Belgium,Spain,1,2,A,0,0
+1990-06-21,1990,1990 FIFA World Cup,group stage,South Korea,Uruguay,0,1,A,0,0
+1990-06-21,1990,1990 FIFA World Cup,group stage,England,Egypt,1,0,H,0,0
+1990-06-21,1990,1990 FIFA World Cup,group stage,Republic of Ireland,Netherlands,1,1,D,0,0
+1990-06-23,1990,1990 FIFA World Cup,round of 16,Czechoslovakia,Costa Rica,4,1,H,0,0
+1990-06-23,1990,1990 FIFA World Cup,round of 16,Cameroon,Colombia,2,1,H,1,0
+1990-06-24,1990,1990 FIFA World Cup,round of 16,Brazil,Argentina,0,1,A,0,0
+1990-06-24,1990,1990 FIFA World Cup,round of 16,West Germany,Netherlands,2,1,H,0,0
+1990-06-25,1990,1990 FIFA World Cup,round of 16,Republic of Ireland,Romania,0,0,H,1,1
+1990-06-25,1990,1990 FIFA World Cup,round of 16,Italy,Uruguay,2,0,H,0,0
+1990-06-26,1990,1990 FIFA World Cup,round of 16,Spain,Yugoslavia,1,2,A,1,0
+1990-06-26,1990,1990 FIFA World Cup,round of 16,England,Belgium,1,0,H,1,0
+1990-06-30,1990,1990 FIFA World Cup,quarter-finals,Argentina,Yugoslavia,0,0,H,1,1
+1990-06-30,1990,1990 FIFA World Cup,quarter-finals,Republic of Ireland,Italy,0,1,A,0,0
+1990-07-01,1990,1990 FIFA World Cup,quarter-finals,Czechoslovakia,West Germany,0,1,A,0,0
+1990-07-01,1990,1990 FIFA World Cup,quarter-finals,Cameroon,England,2,3,A,1,0
+1990-07-03,1990,1990 FIFA World Cup,semi-finals,Argentina,Italy,1,1,H,1,1
+1990-07-04,1990,1990 FIFA World Cup,semi-finals,West Germany,England,1,1,H,1,1
+1990-07-07,1990,1990 FIFA World Cup,third-place match,Italy,England,2,1,H,0,0
+1990-07-08,1990,1990 FIFA World Cup,final,West Germany,Argentina,1,0,H,0,0
+1994-06-17,1994,1994 FIFA World Cup,group stage,Germany,Bolivia,1,0,H,0,0
+1994-06-17,1994,1994 FIFA World Cup,group stage,Spain,South Korea,2,2,D,0,0
+1994-06-18,1994,1994 FIFA World Cup,group stage,United States,Switzerland,1,1,D,0,0
+1994-06-18,1994,1994 FIFA World Cup,group stage,Italy,Republic of Ireland,0,1,A,0,0
+1994-06-18,1994,1994 FIFA World Cup,group stage,Colombia,Romania,1,3,A,0,0
+1994-06-19,1994,1994 FIFA World Cup,group stage,Belgium,Morocco,1,0,H,0,0
+1994-06-19,1994,1994 FIFA World Cup,group stage,Norway,Mexico,1,0,H,0,0
+1994-06-19,1994,1994 FIFA World Cup,group stage,Cameroon,Sweden,2,2,D,0,0
+1994-06-20,1994,1994 FIFA World Cup,group stage,Brazil,Russia,2,0,H,0,0
+1994-06-20,1994,1994 FIFA World Cup,group stage,Netherlands,Saudi Arabia,2,1,H,0,0
+1994-06-21,1994,1994 FIFA World Cup,group stage,Argentina,Greece,4,0,H,0,0
+1994-06-21,1994,1994 FIFA World Cup,group stage,Germany,Spain,1,1,D,0,0
+1994-06-21,1994,1994 FIFA World Cup,group stage,Nigeria,Bulgaria,3,0,H,0,0
+1994-06-22,1994,1994 FIFA World Cup,group stage,Romania,Switzerland,1,4,A,0,0
+1994-06-22,1994,1994 FIFA World Cup,group stage,United States,Colombia,2,1,H,0,0
+1994-06-23,1994,1994 FIFA World Cup,group stage,South Korea,Bolivia,0,0,D,0,0
+1994-06-23,1994,1994 FIFA World Cup,group stage,Italy,Norway,1,0,H,0,0
+1994-06-24,1994,1994 FIFA World Cup,group stage,Sweden,Russia,3,1,H,0,0
+1994-06-24,1994,1994 FIFA World Cup,group stage,Mexico,Republic of Ireland,2,1,H,0,0
+1994-06-24,1994,1994 FIFA World Cup,group stage,Brazil,Cameroon,3,0,H,0,0
+1994-06-25,1994,1994 FIFA World Cup,group stage,Belgium,Netherlands,1,0,H,0,0
+1994-06-25,1994,1994 FIFA World Cup,group stage,Saudi Arabia,Morocco,2,1,H,0,0
+1994-06-25,1994,1994 FIFA World Cup,group stage,Argentina,Nigeria,2,1,H,0,0
+1994-06-26,1994,1994 FIFA World Cup,group stage,Bulgaria,Greece,4,0,H,0,0
+1994-06-26,1994,1994 FIFA World Cup,group stage,Switzerland,Colombia,0,2,A,0,0
+1994-06-26,1994,1994 FIFA World Cup,group stage,United States,Romania,0,1,A,0,0
+1994-06-27,1994,1994 FIFA World Cup,group stage,Bolivia,Spain,1,3,A,0,0
+1994-06-27,1994,1994 FIFA World Cup,group stage,Germany,South Korea,3,2,H,0,0
+1994-06-28,1994,1994 FIFA World Cup,group stage,Italy,Mexico,1,1,D,0,0
+1994-06-28,1994,1994 FIFA World Cup,group stage,Republic of Ireland,Norway,0,0,D,0,0
+1994-06-28,1994,1994 FIFA World Cup,group stage,Russia,Cameroon,6,1,H,0,0
+1994-06-28,1994,1994 FIFA World Cup,group stage,Brazil,Sweden,1,1,D,0,0
+1994-06-29,1994,1994 FIFA World Cup,group stage,Morocco,Netherlands,1,2,A,0,0
+1994-06-29,1994,1994 FIFA World Cup,group stage,Belgium,Saudi Arabia,0,1,A,0,0
+1994-06-30,1994,1994 FIFA World Cup,group stage,Argentina,Bulgaria,0,2,A,0,0
+1994-06-30,1994,1994 FIFA World Cup,group stage,Greece,Nigeria,0,2,A,0,0
+1994-07-02,1994,1994 FIFA World Cup,round of 16,Germany,Belgium,3,2,H,0,0
+1994-07-02,1994,1994 FIFA World Cup,round of 16,Spain,Switzerland,3,0,H,0,0
+1994-07-03,1994,1994 FIFA World Cup,round of 16,Saudi Arabia,Sweden,1,3,A,0,0
+1994-07-03,1994,1994 FIFA World Cup,round of 16,Romania,Argentina,3,2,H,0,0
+1994-07-04,1994,1994 FIFA World Cup,round of 16,Netherlands,Republic of Ireland,2,0,H,0,0
+1994-07-04,1994,1994 FIFA World Cup,round of 16,Brazil,United States,1,0,H,0,0
+1994-07-05,1994,1994 FIFA World Cup,round of 16,Nigeria,Italy,1,2,A,1,0
+1994-07-05,1994,1994 FIFA World Cup,round of 16,Mexico,Bulgaria,1,1,A,1,1
+1994-07-09,1994,1994 FIFA World Cup,quarter-finals,Italy,Spain,2,1,H,0,0
+1994-07-09,1994,1994 FIFA World Cup,quarter-finals,Netherlands,Brazil,2,3,A,0,0
+1994-07-10,1994,1994 FIFA World Cup,quarter-finals,Bulgaria,Germany,2,1,H,0,0
+1994-07-10,1994,1994 FIFA World Cup,quarter-finals,Romania,Sweden,2,2,A,1,1
+1994-07-13,1994,1994 FIFA World Cup,semi-finals,Sweden,Brazil,0,1,A,0,0
+1994-07-13,1994,1994 FIFA World Cup,semi-finals,Bulgaria,Italy,1,2,A,0,0
+1994-07-16,1994,1994 FIFA World Cup,third-place match,Sweden,Bulgaria,4,0,H,0,0
+1994-07-17,1994,1994 FIFA World Cup,final,Brazil,Italy,0,0,H,1,1
+1998-06-10,1998,1998 FIFA World Cup,group stage,Brazil,Scotland,2,1,H,0,0
+1998-06-10,1998,1998 FIFA World Cup,group stage,Morocco,Norway,2,2,D,0,0
+1998-06-11,1998,1998 FIFA World Cup,group stage,Italy,Chile,2,2,D,0,0
+1998-06-11,1998,1998 FIFA World Cup,group stage,Cameroon,Austria,1,1,D,0,0
+1998-06-12,1998,1998 FIFA World Cup,group stage,Paraguay,Bulgaria,0,0,D,0,0
+1998-06-12,1998,1998 FIFA World Cup,group stage,Saudi Arabia,Denmark,0,1,A,0,0
+1998-06-12,1998,1998 FIFA World Cup,group stage,France,South Africa,3,0,H,0,0
+1998-06-13,1998,1998 FIFA World Cup,group stage,Spain,Nigeria,2,3,A,0,0
+1998-06-13,1998,1998 FIFA World Cup,group stage,South Korea,Mexico,1,3,A,0,0
+1998-06-13,1998,1998 FIFA World Cup,group stage,Netherlands,Belgium,0,0,D,0,0
+1998-06-14,1998,1998 FIFA World Cup,group stage,Jamaica,Croatia,1,3,A,0,0
+1998-06-14,1998,1998 FIFA World Cup,group stage,Argentina,Japan,1,0,H,0,0
+1998-06-14,1998,1998 FIFA World Cup,group stage,Yugoslavia,Iran,1,0,H,0,0
+1998-06-15,1998,1998 FIFA World Cup,group stage,England,Tunisia,2,0,H,0,0
+1998-06-15,1998,1998 FIFA World Cup,group stage,Romania,Colombia,1,0,H,0,0
+1998-06-15,1998,1998 FIFA World Cup,group stage,Germany,United States,2,0,H,0,0
+1998-06-16,1998,1998 FIFA World Cup,group stage,Scotland,Norway,1,1,D,0,0
+1998-06-16,1998,1998 FIFA World Cup,group stage,Brazil,Morocco,3,0,H,0,0
+1998-06-17,1998,1998 FIFA World Cup,group stage,Chile,Austria,1,1,D,0,0
+1998-06-17,1998,1998 FIFA World Cup,group stage,Italy,Cameroon,3,0,H,0,0
+1998-06-18,1998,1998 FIFA World Cup,group stage,South Africa,Denmark,1,1,D,0,0
+1998-06-18,1998,1998 FIFA World Cup,group stage,France,Saudi Arabia,4,0,H,0,0
+1998-06-19,1998,1998 FIFA World Cup,group stage,Spain,Paraguay,0,0,D,0,0
+1998-06-19,1998,1998 FIFA World Cup,group stage,Nigeria,Bulgaria,1,0,H,0,0
+1998-06-20,1998,1998 FIFA World Cup,group stage,Belgium,Mexico,2,2,D,0,0
+1998-06-20,1998,1998 FIFA World Cup,group stage,Netherlands,South Korea,5,0,H,0,0
+1998-06-20,1998,1998 FIFA World Cup,group stage,Japan,Croatia,0,1,A,0,0
+1998-06-21,1998,1998 FIFA World Cup,group stage,United States,Iran,1,2,A,0,0
+1998-06-21,1998,1998 FIFA World Cup,group stage,Germany,Yugoslavia,2,2,D,0,0
+1998-06-21,1998,1998 FIFA World Cup,group stage,Argentina,Jamaica,5,0,H,0,0
+1998-06-22,1998,1998 FIFA World Cup,group stage,Colombia,Tunisia,1,0,H,0,0
+1998-06-22,1998,1998 FIFA World Cup,group stage,Romania,England,2,1,H,0,0
+1998-06-23,1998,1998 FIFA World Cup,group stage,Chile,Cameroon,1,1,D,0,0
+1998-06-23,1998,1998 FIFA World Cup,group stage,Italy,Austria,2,1,H,0,0
+1998-06-23,1998,1998 FIFA World Cup,group stage,Brazil,Norway,1,2,A,0,0
+1998-06-23,1998,1998 FIFA World Cup,group stage,Scotland,Morocco,0,3,A,0,0
+1998-06-24,1998,1998 FIFA World Cup,group stage,France,Denmark,2,1,H,0,0
+1998-06-24,1998,1998 FIFA World Cup,group stage,South Africa,Saudi Arabia,2,2,D,0,0
+1998-06-24,1998,1998 FIFA World Cup,group stage,Nigeria,Paraguay,1,3,A,0,0
+1998-06-24,1998,1998 FIFA World Cup,group stage,Spain,Bulgaria,6,1,H,0,0
+1998-06-25,1998,1998 FIFA World Cup,group stage,Germany,Iran,2,0,H,0,0
+1998-06-25,1998,1998 FIFA World Cup,group stage,United States,Yugoslavia,0,1,A,0,0
+1998-06-25,1998,1998 FIFA World Cup,group stage,Belgium,South Korea,1,1,D,0,0
+1998-06-25,1998,1998 FIFA World Cup,group stage,Netherlands,Mexico,2,2,D,0,0
+1998-06-26,1998,1998 FIFA World Cup,group stage,Argentina,Croatia,1,0,H,0,0
+1998-06-26,1998,1998 FIFA World Cup,group stage,Japan,Jamaica,1,2,A,0,0
+1998-06-26,1998,1998 FIFA World Cup,group stage,Colombia,England,0,2,A,0,0
+1998-06-26,1998,1998 FIFA World Cup,group stage,Romania,Tunisia,1,1,D,0,0
+1998-06-27,1998,1998 FIFA World Cup,round of 16,Italy,Norway,1,0,H,0,0
+1998-06-27,1998,1998 FIFA World Cup,round of 16,Brazil,Chile,4,1,H,0,0
+1998-06-28,1998,1998 FIFA World Cup,round of 16,Nigeria,Denmark,1,4,A,0,0
+1998-06-28,1998,1998 FIFA World Cup,round of 16,France,Paraguay,1,0,H,1,0
+1998-06-29,1998,1998 FIFA World Cup,round of 16,Germany,Mexico,2,1,H,0,0
+1998-06-29,1998,1998 FIFA World Cup,round of 16,Netherlands,Yugoslavia,2,1,H,0,0
+1998-06-30,1998,1998 FIFA World Cup,round of 16,Romania,Croatia,0,1,A,0,0
+1998-06-30,1998,1998 FIFA World Cup,round of 16,Argentina,England,2,2,H,1,1
+1998-07-03,1998,1998 FIFA World Cup,quarter-finals,Brazil,Denmark,3,2,H,0,0
+1998-07-03,1998,1998 FIFA World Cup,quarter-finals,Italy,France,0,0,A,1,1
+1998-07-04,1998,1998 FIFA World Cup,quarter-finals,Germany,Croatia,0,3,A,0,0
+1998-07-04,1998,1998 FIFA World Cup,quarter-finals,Netherlands,Argentina,2,1,H,0,0
+1998-07-07,1998,1998 FIFA World Cup,semi-finals,Brazil,Netherlands,1,1,H,1,1
+1998-07-08,1998,1998 FIFA World Cup,semi-finals,France,Croatia,2,1,H,0,0
+1998-07-11,1998,1998 FIFA World Cup,third-place match,Netherlands,Croatia,1,2,A,0,0
+1998-07-12,1998,1998 FIFA World Cup,final,Brazil,France,0,3,A,0,0
+2002-05-31,2002,2002 FIFA World Cup,group stage,France,Senegal,0,1,A,0,0
+2002-06-01,2002,2002 FIFA World Cup,group stage,Republic of Ireland,Cameroon,1,1,D,0,0
+2002-06-01,2002,2002 FIFA World Cup,group stage,Uruguay,Denmark,1,2,A,0,0
+2002-06-01,2002,2002 FIFA World Cup,group stage,Germany,Saudi Arabia,8,0,H,0,0
+2002-06-02,2002,2002 FIFA World Cup,group stage,Argentina,Nigeria,1,0,H,0,0
+2002-06-02,2002,2002 FIFA World Cup,group stage,Paraguay,South Africa,2,2,D,0,0
+2002-06-02,2002,2002 FIFA World Cup,group stage,England,Sweden,1,1,D,0,0
+2002-06-02,2002,2002 FIFA World Cup,group stage,Spain,Slovenia,3,1,H,0,0
+2002-06-03,2002,2002 FIFA World Cup,group stage,Italy,Ecuador,2,0,H,0,0
+2002-06-03,2002,2002 FIFA World Cup,group stage,Croatia,Mexico,0,1,A,0,0
+2002-06-03,2002,2002 FIFA World Cup,group stage,Brazil,Turkey,2,1,H,0,0
+2002-06-04,2002,2002 FIFA World Cup,group stage,China,Costa Rica,0,2,A,0,0
+2002-06-04,2002,2002 FIFA World Cup,group stage,Japan,Belgium,2,2,D,0,0
+2002-06-04,2002,2002 FIFA World Cup,group stage,South Korea,Poland,2,0,H,0,0
+2002-06-05,2002,2002 FIFA World Cup,group stage,Russia,Tunisia,2,0,H,0,0
+2002-06-05,2002,2002 FIFA World Cup,group stage,United States,Portugal,3,2,H,0,0
+2002-06-05,2002,2002 FIFA World Cup,group stage,Germany,Republic of Ireland,1,1,D,0,0
+2002-06-06,2002,2002 FIFA World Cup,group stage,France,Uruguay,0,0,D,0,0
+2002-06-06,2002,2002 FIFA World Cup,group stage,Denmark,Senegal,1,1,D,0,0
+2002-06-06,2002,2002 FIFA World Cup,group stage,Cameroon,Saudi Arabia,1,0,H,0,0
+2002-06-07,2002,2002 FIFA World Cup,group stage,Spain,Paraguay,3,1,H,0,0
+2002-06-07,2002,2002 FIFA World Cup,group stage,Argentina,England,0,1,A,0,0
+2002-06-07,2002,2002 FIFA World Cup,group stage,Sweden,Nigeria,2,1,H,0,0
+2002-06-08,2002,2002 FIFA World Cup,group stage,Brazil,China,4,0,H,0,0
+2002-06-08,2002,2002 FIFA World Cup,group stage,South Africa,Slovenia,1,0,H,0,0
+2002-06-08,2002,2002 FIFA World Cup,group stage,Italy,Croatia,1,2,A,0,0
+2002-06-09,2002,2002 FIFA World Cup,group stage,Mexico,Ecuador,2,1,H,0,0
+2002-06-09,2002,2002 FIFA World Cup,group stage,Costa Rica,Turkey,1,1,D,0,0
+2002-06-09,2002,2002 FIFA World Cup,group stage,Japan,Russia,1,0,H,0,0
+2002-06-10,2002,2002 FIFA World Cup,group stage,South Korea,United States,1,1,D,0,0
+2002-06-10,2002,2002 FIFA World Cup,group stage,Tunisia,Belgium,1,1,D,0,0
+2002-06-10,2002,2002 FIFA World Cup,group stage,Portugal,Poland,4,0,H,0,0
+2002-06-11,2002,2002 FIFA World Cup,group stage,Denmark,France,2,0,H,0,0
+2002-06-11,2002,2002 FIFA World Cup,group stage,Senegal,Uruguay,3,3,D,0,0
+2002-06-11,2002,2002 FIFA World Cup,group stage,Cameroon,Germany,0,2,A,0,0
+2002-06-11,2002,2002 FIFA World Cup,group stage,Saudi Arabia,Republic of Ireland,0,3,A,0,0
+2002-06-12,2002,2002 FIFA World Cup,group stage,Slovenia,Paraguay,1,3,A,0,0
+2002-06-12,2002,2002 FIFA World Cup,group stage,South Africa,Spain,2,3,A,0,0
+2002-06-12,2002,2002 FIFA World Cup,group stage,Nigeria,England,0,0,D,0,0
+2002-06-12,2002,2002 FIFA World Cup,group stage,Sweden,Argentina,1,1,D,0,0
+2002-06-13,2002,2002 FIFA World Cup,group stage,Costa Rica,Brazil,2,5,A,0,0
+2002-06-13,2002,2002 FIFA World Cup,group stage,Turkey,China,3,0,H,0,0
+2002-06-13,2002,2002 FIFA World Cup,group stage,Ecuador,Croatia,1,0,H,0,0
+2002-06-13,2002,2002 FIFA World Cup,group stage,Mexico,Italy,1,1,D,0,0
+2002-06-14,2002,2002 FIFA World Cup,group stage,Portugal,South Korea,0,1,A,0,0
+2002-06-14,2002,2002 FIFA World Cup,group stage,Poland,United States,3,1,H,0,0
+2002-06-14,2002,2002 FIFA World Cup,group stage,Belgium,Russia,3,2,H,0,0
+2002-06-14,2002,2002 FIFA World Cup,group stage,Tunisia,Japan,0,2,A,0,0
+2002-06-15,2002,2002 FIFA World Cup,round of 16,Germany,Paraguay,1,0,H,0,0
+2002-06-15,2002,2002 FIFA World Cup,round of 16,Denmark,England,0,3,A,0,0
+2002-06-16,2002,2002 FIFA World Cup,round of 16,Sweden,Senegal,1,2,A,1,0
+2002-06-16,2002,2002 FIFA World Cup,round of 16,Spain,Republic of Ireland,1,1,H,1,1
+2002-06-17,2002,2002 FIFA World Cup,round of 16,Brazil,Belgium,2,0,H,0,0
+2002-06-17,2002,2002 FIFA World Cup,round of 16,Mexico,United States,0,2,A,0,0
+2002-06-18,2002,2002 FIFA World Cup,round of 16,South Korea,Italy,2,1,H,1,0
+2002-06-18,2002,2002 FIFA World Cup,round of 16,Japan,Turkey,0,1,A,0,0
+2002-06-21,2002,2002 FIFA World Cup,quarter-finals,England,Brazil,1,2,A,0,0
+2002-06-21,2002,2002 FIFA World Cup,quarter-finals,Germany,United States,1,0,H,0,0
+2002-06-22,2002,2002 FIFA World Cup,quarter-finals,Spain,South Korea,0,0,A,1,1
+2002-06-22,2002,2002 FIFA World Cup,quarter-finals,Senegal,Turkey,0,1,A,1,0
+2002-06-25,2002,2002 FIFA World Cup,semi-finals,Germany,South Korea,1,0,H,0,0
+2002-06-26,2002,2002 FIFA World Cup,semi-finals,Brazil,Turkey,1,0,H,0,0
+2002-06-29,2002,2002 FIFA World Cup,third-place match,South Korea,Turkey,2,3,A,0,0
+2002-06-30,2002,2002 FIFA World Cup,final,Germany,Brazil,0,2,A,0,0
+2006-06-09,2006,2006 FIFA World Cup,group stage,Germany,Costa Rica,4,2,H,0,0
+2006-06-09,2006,2006 FIFA World Cup,group stage,Poland,Ecuador,0,2,A,0,0
+2006-06-10,2006,2006 FIFA World Cup,group stage,England,Paraguay,1,0,H,0,0
+2006-06-10,2006,2006 FIFA World Cup,group stage,Trinidad and Tobago,Sweden,0,0,D,0,0
+2006-06-10,2006,2006 FIFA World Cup,group stage,Argentina,Ivory Coast,2,1,H,0,0
+2006-06-11,2006,2006 FIFA World Cup,group stage,Angola,Portugal,0,1,A,0,0
+2006-06-11,2006,2006 FIFA World Cup,group stage,Mexico,Iran,3,1,H,0,0
+2006-06-11,2006,2006 FIFA World Cup,group stage,Serbia and Montenegro,Netherlands,0,1,A,0,0
+2006-06-12,2006,2006 FIFA World Cup,group stage,Australia,Japan,3,1,H,0,0
+2006-06-12,2006,2006 FIFA World Cup,group stage,United States,Czech Republic,0,3,A,0,0
+2006-06-12,2006,2006 FIFA World Cup,group stage,Italy,Ghana,2,0,H,0,0
+2006-06-13,2006,2006 FIFA World Cup,group stage,South Korea,Togo,2,1,H,0,0
+2006-06-13,2006,2006 FIFA World Cup,group stage,France,Switzerland,0,0,D,0,0
+2006-06-13,2006,2006 FIFA World Cup,group stage,Brazil,Croatia,1,0,H,0,0
+2006-06-14,2006,2006 FIFA World Cup,group stage,Spain,Ukraine,4,0,H,0,0
+2006-06-14,2006,2006 FIFA World Cup,group stage,Tunisia,Saudi Arabia,2,2,D,0,0
+2006-06-14,2006,2006 FIFA World Cup,group stage,Germany,Poland,1,0,H,0,0
+2006-06-15,2006,2006 FIFA World Cup,group stage,Ecuador,Costa Rica,3,0,H,0,0
+2006-06-15,2006,2006 FIFA World Cup,group stage,England,Trinidad and Tobago,2,0,H,0,0
+2006-06-15,2006,2006 FIFA World Cup,group stage,Sweden,Paraguay,1,0,H,0,0
+2006-06-16,2006,2006 FIFA World Cup,group stage,Mexico,Angola,0,0,D,0,0
+2006-06-16,2006,2006 FIFA World Cup,group stage,Argentina,Serbia and Montenegro,6,0,H,0,0
+2006-06-16,2006,2006 FIFA World Cup,group stage,Netherlands,Ivory Coast,2,1,H,0,0
+2006-06-17,2006,2006 FIFA World Cup,group stage,Portugal,Iran,2,0,H,0,0
+2006-06-17,2006,2006 FIFA World Cup,group stage,Czech Republic,Ghana,0,2,A,0,0
+2006-06-17,2006,2006 FIFA World Cup,group stage,Italy,United States,1,1,D,0,0
+2006-06-18,2006,2006 FIFA World Cup,group stage,Japan,Croatia,0,0,D,0,0
+2006-06-18,2006,2006 FIFA World Cup,group stage,Brazil,Australia,2,0,H,0,0
+2006-06-18,2006,2006 FIFA World Cup,group stage,France,South Korea,1,1,D,0,0
+2006-06-19,2006,2006 FIFA World Cup,group stage,Togo,Switzerland,0,2,A,0,0
+2006-06-19,2006,2006 FIFA World Cup,group stage,Saudi Arabia,Ukraine,0,4,A,0,0
+2006-06-19,2006,2006 FIFA World Cup,group stage,Spain,Tunisia,3,1,H,0,0
+2006-06-20,2006,2006 FIFA World Cup,group stage,Paraguay,Trinidad and Tobago,2,0,H,0,0
+2006-06-20,2006,2006 FIFA World Cup,group stage,Sweden,England,2,2,D,0,0
+2006-06-20,2006,2006 FIFA World Cup,group stage,Costa Rica,Poland,1,2,A,0,0
+2006-06-20,2006,2006 FIFA World Cup,group stage,Ecuador,Germany,0,3,A,0,0
+2006-06-21,2006,2006 FIFA World Cup,group stage,Iran,Angola,1,1,D,0,0
+2006-06-21,2006,2006 FIFA World Cup,group stage,Portugal,Mexico,2,1,H,0,0
+2006-06-21,2006,2006 FIFA World Cup,group stage,Ivory Coast,Serbia and Montenegro,3,2,H,0,0
+2006-06-21,2006,2006 FIFA World Cup,group stage,Netherlands,Argentina,0,0,D,0,0
+2006-06-22,2006,2006 FIFA World Cup,group stage,Czech Republic,Italy,0,2,A,0,0
+2006-06-22,2006,2006 FIFA World Cup,group stage,Ghana,United States,2,1,H,0,0
+2006-06-22,2006,2006 FIFA World Cup,group stage,Croatia,Australia,2,2,D,0,0
+2006-06-22,2006,2006 FIFA World Cup,group stage,Japan,Brazil,1,4,A,0,0
+2006-06-23,2006,2006 FIFA World Cup,group stage,Togo,France,0,2,A,0,0
+2006-06-23,2006,2006 FIFA World Cup,group stage,Saudi Arabia,Spain,0,1,A,0,0
+2006-06-23,2006,2006 FIFA World Cup,group stage,Ukraine,Tunisia,1,0,H,0,0
+2006-06-23,2006,2006 FIFA World Cup,group stage,Switzerland,South Korea,2,0,H,0,0
+2006-06-24,2006,2006 FIFA World Cup,round of 16,Argentina,Mexico,2,1,H,1,0
+2006-06-24,2006,2006 FIFA World Cup,round of 16,Germany,Sweden,2,0,H,0,0
+2006-06-25,2006,2006 FIFA World Cup,round of 16,England,Ecuador,1,0,H,0,0
+2006-06-25,2006,2006 FIFA World Cup,round of 16,Portugal,Netherlands,1,0,H,0,0
+2006-06-26,2006,2006 FIFA World Cup,round of 16,Italy,Australia,1,0,H,0,0
+2006-06-26,2006,2006 FIFA World Cup,round of 16,Switzerland,Ukraine,0,0,A,1,1
+2006-06-27,2006,2006 FIFA World Cup,round of 16,Brazil,Ghana,3,0,H,0,0
+2006-06-27,2006,2006 FIFA World Cup,round of 16,Spain,France,1,3,A,0,0
+2006-06-30,2006,2006 FIFA World Cup,quarter-finals,Germany,Argentina,1,1,H,1,1
+2006-06-30,2006,2006 FIFA World Cup,quarter-finals,Italy,Ukraine,3,0,H,0,0
+2006-07-01,2006,2006 FIFA World Cup,quarter-finals,England,Portugal,0,0,A,1,1
+2006-07-01,2006,2006 FIFA World Cup,quarter-finals,Brazil,France,0,1,A,0,0
+2006-07-04,2006,2006 FIFA World Cup,semi-finals,Germany,Italy,0,2,A,1,0
+2006-07-05,2006,2006 FIFA World Cup,semi-finals,Portugal,France,0,1,A,0,0
+2006-07-08,2006,2006 FIFA World Cup,third-place match,Germany,Portugal,3,1,H,0,0
+2006-07-09,2006,2006 FIFA World Cup,final,Italy,France,1,1,H,1,1
+2010-06-11,2010,2010 FIFA World Cup,group stage,South Africa,Mexico,1,1,D,0,0
+2010-06-11,2010,2010 FIFA World Cup,group stage,Uruguay,France,0,0,D,0,0
+2010-06-12,2010,2010 FIFA World Cup,group stage,South Korea,Greece,2,0,H,0,0
+2010-06-12,2010,2010 FIFA World Cup,group stage,Argentina,Nigeria,1,0,H,0,0
+2010-06-12,2010,2010 FIFA World Cup,group stage,England,United States,1,1,D,0,0
+2010-06-13,2010,2010 FIFA World Cup,group stage,Algeria,Slovenia,0,1,A,0,0
+2010-06-13,2010,2010 FIFA World Cup,group stage,Serbia,Ghana,0,1,A,0,0
+2010-06-13,2010,2010 FIFA World Cup,group stage,Germany,Australia,4,0,H,0,0
+2010-06-14,2010,2010 FIFA World Cup,group stage,Netherlands,Denmark,2,0,H,0,0
+2010-06-14,2010,2010 FIFA World Cup,group stage,Japan,Cameroon,1,0,H,0,0
+2010-06-14,2010,2010 FIFA World Cup,group stage,Italy,Paraguay,1,1,D,0,0
+2010-06-15,2010,2010 FIFA World Cup,group stage,Ivory Coast,Portugal,0,0,D,0,0
+2010-06-15,2010,2010 FIFA World Cup,group stage,New Zealand,Slovakia,1,1,D,0,0
+2010-06-15,2010,2010 FIFA World Cup,group stage,Brazil,North Korea,2,1,H,0,0
+2010-06-16,2010,2010 FIFA World Cup,group stage,South Africa,Uruguay,0,3,A,0,0
+2010-06-16,2010,2010 FIFA World Cup,group stage,Spain,Switzerland,0,1,A,0,0
+2010-06-16,2010,2010 FIFA World Cup,group stage,Honduras,Chile,0,1,A,0,0
+2010-06-17,2010,2010 FIFA World Cup,group stage,Argentina,South Korea,4,1,H,0,0
+2010-06-17,2010,2010 FIFA World Cup,group stage,Greece,Nigeria,2,1,H,0,0
+2010-06-17,2010,2010 FIFA World Cup,group stage,France,Mexico,0,2,A,0,0
+2010-06-18,2010,2010 FIFA World Cup,group stage,Germany,Serbia,0,1,A,0,0
+2010-06-18,2010,2010 FIFA World Cup,group stage,Slovenia,United States,2,2,D,0,0
+2010-06-18,2010,2010 FIFA World Cup,group stage,England,Algeria,0,0,D,0,0
+2010-06-19,2010,2010 FIFA World Cup,group stage,Netherlands,Japan,1,0,H,0,0
+2010-06-19,2010,2010 FIFA World Cup,group stage,Ghana,Australia,1,1,D,0,0
+2010-06-19,2010,2010 FIFA World Cup,group stage,Cameroon,Denmark,1,2,A,0,0
+2010-06-20,2010,2010 FIFA World Cup,group stage,Slovakia,Paraguay,0,2,A,0,0
+2010-06-20,2010,2010 FIFA World Cup,group stage,Italy,New Zealand,1,1,D,0,0
+2010-06-20,2010,2010 FIFA World Cup,group stage,Brazil,Ivory Coast,3,1,H,0,0
+2010-06-21,2010,2010 FIFA World Cup,group stage,Chile,Switzerland,1,0,H,0,0
+2010-06-21,2010,2010 FIFA World Cup,group stage,Spain,Honduras,2,0,H,0,0
+2010-06-21,2010,2010 FIFA World Cup,group stage,Portugal,North Korea,7,0,H,0,0
+2010-06-22,2010,2010 FIFA World Cup,group stage,France,South Africa,1,2,A,0,0
+2010-06-22,2010,2010 FIFA World Cup,group stage,Mexico,Uruguay,0,1,A,0,0
+2010-06-22,2010,2010 FIFA World Cup,group stage,Greece,Argentina,0,2,A,0,0
+2010-06-22,2010,2010 FIFA World Cup,group stage,Nigeria,South Korea,2,2,D,0,0
+2010-06-23,2010,2010 FIFA World Cup,group stage,Slovenia,England,0,1,A,0,0
+2010-06-23,2010,2010 FIFA World Cup,group stage,United States,Algeria,1,0,H,0,0
+2010-06-23,2010,2010 FIFA World Cup,group stage,Australia,Serbia,2,1,H,0,0
+2010-06-23,2010,2010 FIFA World Cup,group stage,Ghana,Germany,0,1,A,0,0
+2010-06-24,2010,2010 FIFA World Cup,group stage,Paraguay,New Zealand,0,0,D,0,0
+2010-06-24,2010,2010 FIFA World Cup,group stage,Slovakia,Italy,3,2,H,0,0
+2010-06-24,2010,2010 FIFA World Cup,group stage,Cameroon,Netherlands,1,2,A,0,0
+2010-06-24,2010,2010 FIFA World Cup,group stage,Denmark,Japan,1,3,A,0,0
+2010-06-25,2010,2010 FIFA World Cup,group stage,Switzerland,Honduras,0,0,D,0,0
+2010-06-25,2010,2010 FIFA World Cup,group stage,Chile,Spain,1,2,A,0,0
+2010-06-25,2010,2010 FIFA World Cup,group stage,North Korea,Ivory Coast,0,3,A,0,0
+2010-06-25,2010,2010 FIFA World Cup,group stage,Portugal,Brazil,0,0,D,0,0
+2010-06-26,2010,2010 FIFA World Cup,round of 16,Uruguay,South Korea,2,1,H,0,0
+2010-06-26,2010,2010 FIFA World Cup,round of 16,United States,Ghana,1,2,A,1,0
+2010-06-27,2010,2010 FIFA World Cup,round of 16,Germany,England,4,1,H,0,0
+2010-06-27,2010,2010 FIFA World Cup,round of 16,Argentina,Mexico,3,1,H,0,0
+2010-06-28,2010,2010 FIFA World Cup,round of 16,Netherlands,Slovakia,2,1,H,0,0
+2010-06-28,2010,2010 FIFA World Cup,round of 16,Brazil,Chile,3,0,H,0,0
+2010-06-29,2010,2010 FIFA World Cup,round of 16,Paraguay,Japan,0,0,H,1,1
+2010-06-29,2010,2010 FIFA World Cup,round of 16,Spain,Portugal,1,0,H,0,0
+2010-07-02,2010,2010 FIFA World Cup,quarter-finals,Uruguay,Ghana,1,1,H,1,1
+2010-07-02,2010,2010 FIFA World Cup,quarter-finals,Netherlands,Brazil,2,1,H,0,0
+2010-07-03,2010,2010 FIFA World Cup,quarter-finals,Paraguay,Spain,0,1,A,0,0
+2010-07-03,2010,2010 FIFA World Cup,quarter-finals,Argentina,Germany,0,4,A,0,0
+2010-07-06,2010,2010 FIFA World Cup,semi-finals,Uruguay,Netherlands,2,3,A,0,0
+2010-07-07,2010,2010 FIFA World Cup,semi-finals,Germany,Spain,0,1,A,0,0
+2010-07-10,2010,2010 FIFA World Cup,third-place match,Uruguay,Germany,2,3,A,0,0
+2010-07-11,2010,2010 FIFA World Cup,final,Netherlands,Spain,0,1,A,1,0
+2014-06-12,2014,2014 FIFA World Cup,group stage,Brazil,Croatia,3,1,H,0,0
+2014-06-13,2014,2014 FIFA World Cup,group stage,Chile,Australia,3,1,H,0,0
+2014-06-13,2014,2014 FIFA World Cup,group stage,Mexico,Cameroon,1,0,H,0,0
+2014-06-13,2014,2014 FIFA World Cup,group stage,Spain,Netherlands,1,5,A,0,0
+2014-06-14,2014,2014 FIFA World Cup,group stage,England,Italy,1,2,A,0,0
+2014-06-14,2014,2014 FIFA World Cup,group stage,Ivory Coast,Japan,2,1,H,0,0
+2014-06-14,2014,2014 FIFA World Cup,group stage,Colombia,Greece,3,0,H,0,0
+2014-06-14,2014,2014 FIFA World Cup,group stage,Uruguay,Costa Rica,1,3,A,0,0
+2014-06-15,2014,2014 FIFA World Cup,group stage,France,Honduras,3,0,H,0,0
+2014-06-15,2014,2014 FIFA World Cup,group stage,Argentina,Bosnia and Herzegovina,2,1,H,0,0
+2014-06-15,2014,2014 FIFA World Cup,group stage,Switzerland,Ecuador,2,1,H,0,0
+2014-06-16,2014,2014 FIFA World Cup,group stage,Germany,Portugal,4,0,H,0,0
+2014-06-16,2014,2014 FIFA World Cup,group stage,Iran,Nigeria,0,0,D,0,0
+2014-06-16,2014,2014 FIFA World Cup,group stage,Ghana,United States,1,2,A,0,0
+2014-06-17,2014,2014 FIFA World Cup,group stage,Belgium,Algeria,2,1,H,0,0
+2014-06-17,2014,2014 FIFA World Cup,group stage,Brazil,Mexico,0,0,D,0,0
+2014-06-17,2014,2014 FIFA World Cup,group stage,Russia,South Korea,1,1,D,0,0
+2014-06-18,2014,2014 FIFA World Cup,group stage,Australia,Netherlands,2,3,A,0,0
+2014-06-18,2014,2014 FIFA World Cup,group stage,Spain,Chile,0,2,A,0,0
+2014-06-18,2014,2014 FIFA World Cup,group stage,Cameroon,Croatia,0,4,A,0,0
+2014-06-19,2014,2014 FIFA World Cup,group stage,Japan,Greece,0,0,D,0,0
+2014-06-19,2014,2014 FIFA World Cup,group stage,Colombia,Ivory Coast,2,1,H,0,0
+2014-06-19,2014,2014 FIFA World Cup,group stage,Uruguay,England,2,1,H,0,0
+2014-06-20,2014,2014 FIFA World Cup,group stage,Honduras,Ecuador,1,2,A,0,0
+2014-06-20,2014,2014 FIFA World Cup,group stage,Italy,Costa Rica,0,1,A,0,0
+2014-06-20,2014,2014 FIFA World Cup,group stage,Switzerland,France,2,5,A,0,0
+2014-06-21,2014,2014 FIFA World Cup,group stage,Argentina,Iran,1,0,H,0,0
+2014-06-21,2014,2014 FIFA World Cup,group stage,Germany,Ghana,2,2,D,0,0
+2014-06-21,2014,2014 FIFA World Cup,group stage,Nigeria,Bosnia and Herzegovina,1,0,H,0,0
+2014-06-22,2014,2014 FIFA World Cup,group stage,Belgium,Russia,1,0,H,0,0
+2014-06-22,2014,2014 FIFA World Cup,group stage,South Korea,Algeria,2,4,A,0,0
+2014-06-22,2014,2014 FIFA World Cup,group stage,United States,Portugal,2,2,D,0,0
+2014-06-23,2014,2014 FIFA World Cup,group stage,Cameroon,Brazil,1,4,A,0,0
+2014-06-23,2014,2014 FIFA World Cup,group stage,Australia,Spain,0,3,A,0,0
+2014-06-23,2014,2014 FIFA World Cup,group stage,Netherlands,Chile,2,0,H,0,0
+2014-06-23,2014,2014 FIFA World Cup,group stage,Croatia,Mexico,1,3,A,0,0
+2014-06-24,2014,2014 FIFA World Cup,group stage,Greece,Ivory Coast,2,1,H,0,0
+2014-06-24,2014,2014 FIFA World Cup,group stage,Japan,Colombia,1,4,A,0,0
+2014-06-24,2014,2014 FIFA World Cup,group stage,Italy,Uruguay,0,1,A,0,0
+2014-06-24,2014,2014 FIFA World Cup,group stage,Costa Rica,England,0,0,D,0,0
+2014-06-25,2014,2014 FIFA World Cup,group stage,Bosnia and Herzegovina,Iran,3,1,H,0,0
+2014-06-25,2014,2014 FIFA World Cup,group stage,Nigeria,Argentina,2,3,A,0,0
+2014-06-25,2014,2014 FIFA World Cup,group stage,Honduras,Switzerland,0,3,A,0,0
+2014-06-25,2014,2014 FIFA World Cup,group stage,Ecuador,France,0,0,D,0,0
+2014-06-26,2014,2014 FIFA World Cup,group stage,Portugal,Ghana,2,1,H,0,0
+2014-06-26,2014,2014 FIFA World Cup,group stage,United States,Germany,0,1,A,0,0
+2014-06-26,2014,2014 FIFA World Cup,group stage,Algeria,Russia,1,1,D,0,0
+2014-06-26,2014,2014 FIFA World Cup,group stage,South Korea,Belgium,0,1,A,0,0
+2014-06-28,2014,2014 FIFA World Cup,round of 16,Brazil,Chile,1,1,H,1,1
+2014-06-28,2014,2014 FIFA World Cup,round of 16,Colombia,Uruguay,2,0,H,0,0
+2014-06-29,2014,2014 FIFA World Cup,round of 16,Netherlands,Mexico,2,1,H,0,0
+2014-06-29,2014,2014 FIFA World Cup,round of 16,Costa Rica,Greece,1,1,H,1,1
+2014-06-30,2014,2014 FIFA World Cup,round of 16,Germany,Algeria,2,1,H,1,0
+2014-06-30,2014,2014 FIFA World Cup,round of 16,France,Nigeria,2,0,H,0,0
+2014-07-01,2014,2014 FIFA World Cup,round of 16,Argentina,Switzerland,1,0,H,1,0
+2014-07-01,2014,2014 FIFA World Cup,round of 16,Belgium,United States,2,1,H,1,0
+2014-07-04,2014,2014 FIFA World Cup,quarter-finals,France,Germany,0,1,A,0,0
+2014-07-04,2014,2014 FIFA World Cup,quarter-finals,Brazil,Colombia,2,1,H,0,0
+2014-07-05,2014,2014 FIFA World Cup,quarter-finals,Argentina,Belgium,1,0,H,0,0
+2014-07-05,2014,2014 FIFA World Cup,quarter-finals,Netherlands,Costa Rica,0,0,H,1,1
+2014-07-08,2014,2014 FIFA World Cup,semi-finals,Brazil,Germany,1,7,A,0,0
+2014-07-09,2014,2014 FIFA World Cup,semi-finals,Netherlands,Argentina,0,0,A,1,1
+2014-07-12,2014,2014 FIFA World Cup,third-place match,Brazil,Netherlands,0,3,A,0,0
+2014-07-13,2014,2014 FIFA World Cup,final,Germany,Argentina,1,0,H,1,0
+2018-06-14,2018,2018 FIFA World Cup,group stage,Russia,Saudi Arabia,5,0,H,0,0
+2018-06-15,2018,2018 FIFA World Cup,group stage,Morocco,Iran,0,1,A,0,0
+2018-06-15,2018,2018 FIFA World Cup,group stage,Portugal,Spain,3,3,D,0,0
+2018-06-15,2018,2018 FIFA World Cup,group stage,Egypt,Uruguay,0,1,A,0,0
+2018-06-16,2018,2018 FIFA World Cup,group stage,Peru,Denmark,0,1,A,0,0
+2018-06-16,2018,2018 FIFA World Cup,group stage,Croatia,Nigeria,2,0,H,0,0
+2018-06-16,2018,2018 FIFA World Cup,group stage,France,Australia,2,1,H,0,0
+2018-06-16,2018,2018 FIFA World Cup,group stage,Argentina,Iceland,1,1,D,0,0
+2018-06-17,2018,2018 FIFA World Cup,group stage,Costa Rica,Serbia,0,1,A,0,0
+2018-06-17,2018,2018 FIFA World Cup,group stage,Germany,Mexico,0,1,A,0,0
+2018-06-17,2018,2018 FIFA World Cup,group stage,Brazil,Switzerland,1,1,D,0,0
+2018-06-18,2018,2018 FIFA World Cup,group stage,Sweden,South Korea,1,0,H,0,0
+2018-06-18,2018,2018 FIFA World Cup,group stage,Belgium,Panama,3,0,H,0,0
+2018-06-18,2018,2018 FIFA World Cup,group stage,Tunisia,England,1,2,A,0,0
+2018-06-19,2018,2018 FIFA World Cup,group stage,Colombia,Japan,1,2,A,0,0
+2018-06-19,2018,2018 FIFA World Cup,group stage,Poland,Senegal,1,2,A,0,0
+2018-06-19,2018,2018 FIFA World Cup,group stage,Russia,Egypt,3,1,H,0,0
+2018-06-20,2018,2018 FIFA World Cup,group stage,Portugal,Morocco,1,0,H,0,0
+2018-06-20,2018,2018 FIFA World Cup,group stage,Uruguay,Saudi Arabia,1,0,H,0,0
+2018-06-20,2018,2018 FIFA World Cup,group stage,Iran,Spain,0,1,A,0,0
+2018-06-21,2018,2018 FIFA World Cup,group stage,Argentina,Croatia,0,3,A,0,0
+2018-06-21,2018,2018 FIFA World Cup,group stage,Denmark,Australia,1,1,D,0,0
+2018-06-21,2018,2018 FIFA World Cup,group stage,France,Peru,1,0,H,0,0
+2018-06-22,2018,2018 FIFA World Cup,group stage,Brazil,Costa Rica,2,0,H,0,0
+2018-06-22,2018,2018 FIFA World Cup,group stage,Nigeria,Iceland,2,0,H,0,0
+2018-06-22,2018,2018 FIFA World Cup,group stage,Serbia,Switzerland,1,2,A,0,0
+2018-06-23,2018,2018 FIFA World Cup,group stage,Belgium,Tunisia,5,2,H,0,0
+2018-06-23,2018,2018 FIFA World Cup,group stage,South Korea,Mexico,1,2,A,0,0
+2018-06-23,2018,2018 FIFA World Cup,group stage,Germany,Sweden,2,1,H,0,0
+2018-06-24,2018,2018 FIFA World Cup,group stage,Poland,Colombia,0,3,A,0,0
+2018-06-24,2018,2018 FIFA World Cup,group stage,England,Panama,6,1,H,0,0
+2018-06-24,2018,2018 FIFA World Cup,group stage,Japan,Senegal,2,2,D,0,0
+2018-06-25,2018,2018 FIFA World Cup,group stage,Spain,Morocco,2,2,D,0,0
+2018-06-25,2018,2018 FIFA World Cup,group stage,Iran,Portugal,1,1,D,0,0
+2018-06-25,2018,2018 FIFA World Cup,group stage,Saudi Arabia,Egypt,2,1,H,0,0
+2018-06-25,2018,2018 FIFA World Cup,group stage,Uruguay,Russia,3,0,H,0,0
+2018-06-26,2018,2018 FIFA World Cup,group stage,Nigeria,Argentina,1,2,A,0,0
+2018-06-26,2018,2018 FIFA World Cup,group stage,Iceland,Croatia,1,2,A,0,0
+2018-06-26,2018,2018 FIFA World Cup,group stage,Australia,Peru,0,2,A,0,0
+2018-06-26,2018,2018 FIFA World Cup,group stage,Denmark,France,0,0,D,0,0
+2018-06-27,2018,2018 FIFA World Cup,group stage,South Korea,Germany,2,0,H,0,0
+2018-06-27,2018,2018 FIFA World Cup,group stage,Mexico,Sweden,0,3,A,0,0
+2018-06-27,2018,2018 FIFA World Cup,group stage,Serbia,Brazil,0,2,A,0,0
+2018-06-27,2018,2018 FIFA World Cup,group stage,Switzerland,Costa Rica,2,2,D,0,0
+2018-06-28,2018,2018 FIFA World Cup,group stage,Japan,Poland,0,1,A,0,0
+2018-06-28,2018,2018 FIFA World Cup,group stage,Senegal,Colombia,0,1,A,0,0
+2018-06-28,2018,2018 FIFA World Cup,group stage,England,Belgium,0,1,A,0,0
+2018-06-28,2018,2018 FIFA World Cup,group stage,Panama,Tunisia,1,2,A,0,0
+2018-06-30,2018,2018 FIFA World Cup,round of 16,Uruguay,Portugal,2,1,H,0,0
+2018-06-30,2018,2018 FIFA World Cup,round of 16,France,Argentina,4,3,H,0,0
+2018-07-01,2018,2018 FIFA World Cup,round of 16,Spain,Russia,1,1,A,1,1
+2018-07-01,2018,2018 FIFA World Cup,round of 16,Croatia,Denmark,1,1,H,1,1
+2018-07-02,2018,2018 FIFA World Cup,round of 16,Belgium,Japan,3,2,H,0,0
+2018-07-02,2018,2018 FIFA World Cup,round of 16,Brazil,Mexico,2,0,H,0,0
+2018-07-03,2018,2018 FIFA World Cup,round of 16,Sweden,Switzerland,1,0,H,0,0
+2018-07-03,2018,2018 FIFA World Cup,round of 16,Colombia,England,1,1,A,1,1
+2018-07-06,2018,2018 FIFA World Cup,quarter-finals,Uruguay,France,0,2,A,0,0
+2018-07-06,2018,2018 FIFA World Cup,quarter-finals,Brazil,Belgium,1,2,A,0,0
+2018-07-07,2018,2018 FIFA World Cup,quarter-finals,Sweden,England,0,2,A,0,0
+2018-07-07,2018,2018 FIFA World Cup,quarter-finals,Russia,Croatia,2,2,A,1,1
+2018-07-10,2018,2018 FIFA World Cup,semi-finals,France,Belgium,1,0,H,0,0
+2018-07-11,2018,2018 FIFA World Cup,semi-finals,Croatia,England,2,1,H,1,0
+2018-07-14,2018,2018 FIFA World Cup,third-place match,Belgium,England,2,0,H,0,0
+2018-07-15,2018,2018 FIFA World Cup,final,France,Croatia,4,2,H,0,0
+2022-11-20,2022,2022 FIFA World Cup,group stage,Qatar,Ecuador,0,2,A,0,0
+2022-11-21,2022,2022 FIFA World Cup,group stage,United States,Wales,1,1,D,0,0
+2022-11-21,2022,2022 FIFA World Cup,group stage,England,Iran,6,2,H,0,0
+2022-11-21,2022,2022 FIFA World Cup,group stage,Senegal,Netherlands,0,2,A,0,0
+2022-11-22,2022,2022 FIFA World Cup,group stage,Argentina,Saudi Arabia,1,2,A,0,0
+2022-11-22,2022,2022 FIFA World Cup,group stage,Denmark,Tunisia,0,0,D,0,0
+2022-11-22,2022,2022 FIFA World Cup,group stage,Mexico,Poland,0,0,D,0,0
+2022-11-22,2022,2022 FIFA World Cup,group stage,France,Australia,4,1,H,0,0
+2022-11-23,2022,2022 FIFA World Cup,group stage,Morocco,Croatia,0,0,D,0,0
+2022-11-23,2022,2022 FIFA World Cup,group stage,Germany,Japan,1,2,A,0,0
+2022-11-23,2022,2022 FIFA World Cup,group stage,Spain,Costa Rica,7,0,H,0,0
+2022-11-23,2022,2022 FIFA World Cup,group stage,Belgium,Canada,1,0,H,0,0
+2022-11-24,2022,2022 FIFA World Cup,group stage,Brazil,Serbia,2,0,H,0,0
+2022-11-24,2022,2022 FIFA World Cup,group stage,Switzerland,Cameroon,1,0,H,0,0
+2022-11-24,2022,2022 FIFA World Cup,group stage,Uruguay,South Korea,0,0,D,0,0
+2022-11-24,2022,2022 FIFA World Cup,group stage,Portugal,Ghana,3,2,H,0,0
+2022-11-25,2022,2022 FIFA World Cup,group stage,England,United States,0,0,D,0,0
+2022-11-25,2022,2022 FIFA World Cup,group stage,Netherlands,Ecuador,1,1,D,0,0
+2022-11-25,2022,2022 FIFA World Cup,group stage,Wales,Iran,0,2,A,0,0
+2022-11-25,2022,2022 FIFA World Cup,group stage,Qatar,Senegal,1,3,A,0,0
+2022-11-26,2022,2022 FIFA World Cup,group stage,Tunisia,Australia,0,1,A,0,0
+2022-11-26,2022,2022 FIFA World Cup,group stage,Poland,Saudi Arabia,2,0,H,0,0
+2022-11-26,2022,2022 FIFA World Cup,group stage,France,Denmark,2,1,H,0,0
+2022-11-26,2022,2022 FIFA World Cup,group stage,Argentina,Mexico,2,0,H,0,0
+2022-11-27,2022,2022 FIFA World Cup,group stage,Spain,Germany,1,1,D,0,0
+2022-11-27,2022,2022 FIFA World Cup,group stage,Japan,Costa Rica,0,1,A,0,0
+2022-11-27,2022,2022 FIFA World Cup,group stage,Belgium,Morocco,0,2,A,0,0
+2022-11-27,2022,2022 FIFA World Cup,group stage,Croatia,Canada,4,1,H,0,0
+2022-11-28,2022,2022 FIFA World Cup,group stage,Brazil,Switzerland,1,0,H,0,0
+2022-11-28,2022,2022 FIFA World Cup,group stage,Portugal,Uruguay,2,0,H,0,0
+2022-11-28,2022,2022 FIFA World Cup,group stage,Cameroon,Serbia,3,3,D,0,0
+2022-11-28,2022,2022 FIFA World Cup,group stage,South Korea,Ghana,2,3,A,0,0
+2022-11-29,2022,2022 FIFA World Cup,group stage,Wales,England,0,3,A,0,0
+2022-11-29,2022,2022 FIFA World Cup,group stage,Iran,United States,0,1,A,0,0
+2022-11-29,2022,2022 FIFA World Cup,group stage,Ecuador,Senegal,1,2,A,0,0
+2022-11-29,2022,2022 FIFA World Cup,group stage,Netherlands,Qatar,2,0,H,0,0
+2022-11-30,2022,2022 FIFA World Cup,group stage,Australia,Denmark,1,0,H,0,0
+2022-11-30,2022,2022 FIFA World Cup,group stage,Tunisia,France,1,0,H,0,0
+2022-11-30,2022,2022 FIFA World Cup,group stage,Poland,Argentina,0,2,A,0,0
+2022-11-30,2022,2022 FIFA World Cup,group stage,Saudi Arabia,Mexico,1,2,A,0,0
+2022-12-01,2022,2022 FIFA World Cup,group stage,Canada,Morocco,1,2,A,0,0
+2022-12-01,2022,2022 FIFA World Cup,group stage,Croatia,Belgium,0,0,D,0,0
+2022-12-01,2022,2022 FIFA World Cup,group stage,Costa Rica,Germany,2,4,A,0,0
+2022-12-01,2022,2022 FIFA World Cup,group stage,Japan,Spain,2,1,H,0,0
+2022-12-02,2022,2022 FIFA World Cup,group stage,Serbia,Switzerland,2,3,A,0,0
+2022-12-02,2022,2022 FIFA World Cup,group stage,Cameroon,Brazil,1,0,H,0,0
+2022-12-02,2022,2022 FIFA World Cup,group stage,Ghana,Uruguay,0,2,A,0,0
+2022-12-02,2022,2022 FIFA World Cup,group stage,South Korea,Portugal,2,1,H,0,0
+2022-12-03,2022,2022 FIFA World Cup,round of 16,Netherlands,United States,3,1,H,0,0
+2022-12-03,2022,2022 FIFA World Cup,round of 16,Argentina,Australia,2,1,H,0,0
+2022-12-04,2022,2022 FIFA World Cup,round of 16,France,Poland,3,1,H,0,0
+2022-12-04,2022,2022 FIFA World Cup,round of 16,England,Senegal,3,0,H,0,0
+2022-12-05,2022,2022 FIFA World Cup,round of 16,Japan,Croatia,1,1,A,1,1
+2022-12-05,2022,2022 FIFA World Cup,round of 16,Brazil,South Korea,4,1,H,0,0
+2022-12-06,2022,2022 FIFA World Cup,round of 16,Morocco,Spain,0,0,H,1,1
+2022-12-06,2022,2022 FIFA World Cup,round of 16,Portugal,Switzerland,6,1,H,0,0
+2022-12-09,2022,2022 FIFA World Cup,quarter-finals,Croatia,Brazil,1,1,H,1,1
+2022-12-09,2022,2022 FIFA World Cup,quarter-finals,Netherlands,Argentina,2,2,A,1,1
+2022-12-10,2022,2022 FIFA World Cup,quarter-finals,Morocco,Portugal,1,0,H,0,0
+2022-12-10,2022,2022 FIFA World Cup,quarter-finals,England,France,1,2,A,0,0
+2022-12-13,2022,2022 FIFA World Cup,semi-finals,Argentina,Croatia,3,0,H,0,0
+2022-12-14,2022,2022 FIFA World Cup,semi-finals,France,Morocco,2,0,H,0,0
+2022-12-17,2022,2022 FIFA World Cup,third-place match,Croatia,Morocco,2,1,H,0,0
+2022-12-18,2022,2022 FIFA World Cup,final,Argentina,France,3,3,H,1,1
