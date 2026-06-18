@@ -19,6 +19,14 @@ export interface Fixture {
       elapsed: number | null;
     };
   }
+
+  export interface Prediction {
+  home_win: number;
+  draw: number;
+  away_win: number;
+  confidence: "high" | "medium" | "low";
+  value_bet: string | null;
+}
   
   export interface Team {
     id: number;

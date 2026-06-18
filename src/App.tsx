@@ -12,42 +12,41 @@ import { AlertCircle, RefreshCw } from 'lucide-react';
 
 
 export default function App() {
-  const [Allmatches, setAllmatches] = useState<MatchResponse[]>([]);
+   const [Allmatches, setAllmatches] = useState<MatchResponse[]>([]);
   const [livematches, setlivematches] = useState<MatchResponse[]>([]);
-  const [Premierleague, setPremierleague] = useState<MatchResponse[]>([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [activeTab, setActiveTab] = useState<'live' | 'all' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
+  const [activeTab, setActiveTab] = useState<'live' | 'all' | 'World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
 
-  // Fetch function — used on load AND when refresh is clicked
   const fetchMatches = () => {
     setLoading(true);
     setError(null);
 
     Promise.all([
       footballApi.getAllMatches(),
-      footballApi.getLivematches(),
-      footballApi.getPremierleague()
+      footballApi.getLivematches()
     ])
-      .then(([allRes, liveRes, PremierleagueRes]) => {
+      .then(([allRes, liveRes]) => {
         setAllmatches(allRes.data.response);
         setlivematches(liveRes.data.response);
-        setPremierleague(PremierleagueRes.data.response);
         setLoading(false);
       })
       .catch(() => {
         setError("Failed to fetch matches");
         setLoading(false);
       });
-
-
-
   };
 
-  // Run once when page loads
   useEffect(() => {
     fetchMatches();
   }, []);
+
+  const displayedMatches =
+    activeTab === 'live'
+      ? livematches
+      : activeTab === 'all'
+      ? Allmatches
+      : Allmatches.filter((match) => match.league.name === activeTab);
 
   const controlBarStyle: React.CSSProperties = {
     display: 'flex',
@@ -138,7 +137,7 @@ export default function App() {
         <LoadingSpinner />
       ) : (
         // Shows live or all matches depending on which tab is active
-        <MatchList matches={activeTab === 'live' ? livematches : activeTab === 'all' ? Allmatches : Premierleague} />
+       <MatchList matches={displayedMatches} />
       )}
 
       <footer style={footerStyle}>

@@ -45,7 +45,7 @@ export function Header() {
     return (
         <header style={headerStyle}>
             <h1 style={titleStyle}>
-                <span>Goal</span><span style={accentStyle}>Stream</span><span>.</span>
+                <span>SOCCERR</span><span style={accentStyle}>AI</span><span>.</span>
             </h1>
             <p style={subTitle}>Latest Football Scores</p>
         </header>

@@ -1,12 +1,35 @@
-import React from 'react';
-import { MatchCard } from './MatchCard';
-import type { MatchResponse } from './types/types';
+import { useState, useEffect } from "react";
+import { MatchCard } from "./MatchCard";
+import { fetchPrediction } from "../services/predictionService";
+import type { MatchResponse, Prediction } from "./types/types";
 
 interface MatchListProps {
     matches: MatchResponse[];
 }
 
+
 export function MatchList({ matches }: MatchListProps) {
+    const [predictions, setPredictions] = useState<Record<string, Prediction>>({});
+
+    
+
+useEffect(() => {
+  matches.forEach(async (match) => {
+    const key = match.fixture.id; // or whatever uniquely identifies a match
+    const result = await fetchPrediction(
+      match.teams.home.name,
+      match.teams.away.name,
+      match.fixture.date
+    );
+    setPredictions((prev) => ({ ...prev, [key]: result }));
+  });
+}, [matches]);
+
+// Sort matches by league name
+const sortedMatches = [...matches].sort((a, b) =>
+        a.league.name.localeCompare(b.league.name)
+    );
+
     const containerStyle: React.CSSProperties = {
         display: 'flex',
         flexWrap: 'wrap',
@@ -37,8 +60,12 @@ export function MatchList({ matches }: MatchListProps) {
 
     return (
         <div style={containerStyle}>
-            {matches.map((match) => (
-                <MatchCard key={match.fixture.id} match={match} />
+            {sortedMatches.map((match) => (
+                <MatchCard
+                    key={match.fixture.id}
+                    match={match}
+                    prediction={predictions[match.fixture.id]}
+                />
             ))}
         </div>
     );
