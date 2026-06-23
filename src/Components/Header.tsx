@@ -47,7 +47,7 @@ export function Header() {
             <h1 style={titleStyle}>
                 <span>SOCCERR</span><span style={accentStyle}>AI</span><span>.</span>
             </h1>
-            <p style={subTitle}>Latest Football Scores</p>
+            <p style={subTitle}>Make smarter predictions with AI</p>
         </header>
     );
 }
