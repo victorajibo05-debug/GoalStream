@@ -1,14 +1,15 @@
 import { useState, useEffect } from 'react';
 import { Layout } from './Components/Layout';
-import {Header} from './Components/Header';
+import { Header } from './Components/Header';
 import { Tabs } from './Components/Tabs';
 import { MatchList } from './Components/MatchList';
 import { LoadingSpinner } from './Components/Loading';
 import { footballApi } from './football';
 import type { MatchResponse } from './Components/types/types';
 import { AlertCircle, RefreshCw } from 'lucide-react';
-
-
+import { supabase } from './lib/supabaseClient';
+import {Auth} from './Components/auth';
+import type { Session } from '@supabase/supabase-js';
 
 
 export default function App() {
@@ -17,6 +18,21 @@ export default function App() {
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
+  const [session, setSession] = useState<Session | null>(null);
+
+  
+
+  useEffect(() => {
+    supabase.auth.getSession().then(({ data: { session } }) => {
+      setSession(session);
+    });
+
+    const { data: { subscription } } = supabase.auth.onAuthStateChange((_event, session) => {
+      setSession(session);
+    });
+
+    return () => subscription.unsubscribe();
+  }, []);
 
   const fetchMatches = () => {
     setLoading(true);
@@ -89,9 +105,51 @@ export default function App() {
     textAlign: 'center'
   };
 
+  const userBarStyle: React.CSSProperties = {
+    display: 'flex',
+    justifyContent: 'flex-end',
+    alignItems: 'center',
+    gap: '12px',
+    marginBottom: '12px',
+    fontFamily: 'Bebas Neue',
+    fontSize: '13px',
+    color: '#888888',
+  };
+
+  const logoutButtonStyle: React.CSSProperties = {
+    padding: '6px 12px',
+    backgroundColor: 'transparent',
+    border: '1px solid #333333',
+    borderRadius: '6px',
+    color: '#888888',
+    fontSize: '12px',
+    fontFamily: 'Bebas Neue',
+    cursor: 'pointer',
+  };
+
+  if (!session) {
+    return (
+      <Layout>
+        <Header />
+        <Auth />
+      </Layout>
+    );
+  }
+  if (session) {
+
   return (
     <Layout>
       <Header />
+
+      <div style={userBarStyle}>
+        <span>{session.user.email}</span>
+        <button
+          style={logoutButtonStyle}
+          onClick={() => supabase.auth.signOut()}
+        >
+          Log Out
+        </button>
+      </div>
 
       <div style={controlBarStyle}>
         <Tabs activeTab={activeTab} onTabChange={setActiveTab} />
@@ -136,8 +194,7 @@ export default function App() {
       ) : loading ? (
         <LoadingSpinner />
       ) : (
-        // Shows live or all matches depending on which tab is active
-       <MatchList matches={displayedMatches} />
+        <MatchList matches={displayedMatches} />
       )}
 
       <footer style={footerStyle}>
@@ -147,4 +204,5 @@ export default function App() {
       </footer>
     </Layout>
   );
+}
 }
