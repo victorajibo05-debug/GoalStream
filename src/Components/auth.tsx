@@ -20,7 +20,7 @@ export function Auth() {
             if (error) {
                 setError(error.message);
             } else {
-                setMessage("Account created successfully! <br />Please check your email for verification instructions.");
+                setMessage("Account created successfully!  Please check your email for verification instructions.");
             }
         } else {
             const { error } = await supabase.auth.signInWithPassword({ email, password });
