@@ -16,6 +16,7 @@ import type { Session } from '@supabase/supabase-js';
 
 export default function App() {
    const [Allmatches, setAllmatches] = useState<MatchResponse[]>([]);
+   const [Livematches, setLivematches] = useState<MatchResponse[]>([]);
   
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
@@ -44,6 +45,7 @@ export default function App() {
     getMatchesByDate(date)
         .then((res) => {
             setAllmatches(res.data.matches);
+            setLivematches(res.data.matches.filter((match: any) => match.status === 'LIVE'));
             setLoading(false);
         })
         .catch(() => {
@@ -56,11 +58,10 @@ export default function App() {
   }, []);
 
   const displayedMatches =
-    activeTab === 'live'
-      
-     
-      ? Allmatches
-      : Allmatches.filter((match) => match.competition.name === activeTab);
+    activeTab === 'all'
+      ? Allmatches : Allmatches.filter((match) => match.competition.name === activeTab)
+      || activeTab === 'live'
+      ? Livematches : Livematches.filter((match) => match.competition.name === activeTab) 
 
   const controlBarStyle: React.CSSProperties = {
     display: 'flex',
