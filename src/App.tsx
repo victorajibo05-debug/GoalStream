@@ -4,12 +4,14 @@ import { Header } from './Components/Header';
 import { Tabs } from './Components/Tabs';
 import { MatchList } from './Components/MatchList';
 import { LoadingSpinner } from './Components/Loading';
-import { footballApi } from './football';
+import { getMatchesByDate } from './football';
 import type { MatchResponse } from './Components/types/types';
 import { AlertCircle, RefreshCw } from 'lucide-react';
 import { supabase } from './lib/supabaseClient';
 import {Auth} from './Components/auth';
+import { DateSlider } from './Components/dateslider';
 import type { Session } from '@supabase/supabase-js';
+
 
 
 export default function App() {
@@ -19,7 +21,7 @@ export default function App() {
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
   const [session, setSession] = useState<Session | null>(null);
-
+  const [selectedDate, setSelectedDate] = useState(() => new Date().toISOString().split('T')[0]);
   
 
   useEffect(() => {
@@ -34,27 +36,23 @@ export default function App() {
     return () => subscription.unsubscribe();
   }, []);
 
-  const fetchMatches = () => {
+  const handleDateChange = (date: string) => {
+    setSelectedDate(date);
     setLoading(true);
     setError(null);
 
-    Promise.all([
-      footballApi.getAllMatches(),
-      footballApi.getLivematches()
-    ])
-      .then(([allRes, liveRes]) => {
-        setAllmatches(allRes.data.matches);
-        setlivematches(liveRes.data.matches);
-        setLoading(false);
-      })
-      .catch(() => {
-        setError("Failed to fetch matches");
-        setLoading(false);
-      });
-  };
-
+    getMatchesByDate(date)
+        .then((res) => {
+            setAllmatches(res.data.matches);
+            setLoading(false);
+        })
+        .catch(() => {
+            setError("Failed to fetch matches for that date");
+            setLoading(false);
+        });
+};
   useEffect(() => {
-    fetchMatches();
+    handleDateChange(selectedDate);
   }, []);
 
   const displayedMatches =
@@ -141,6 +139,7 @@ export default function App() {
     <Layout>
       <Header />
 
+
       <div style={userBarStyle}>
         <span>{session.user.email}</span>
         <button
@@ -151,10 +150,12 @@ export default function App() {
         </button>
       </div>
 
+      <DateSlider selectedDate={selectedDate} onDateChange={handleDateChange} daysCount={20} />
+
       <div style={controlBarStyle}>
         <Tabs activeTab={activeTab} onTabChange={setActiveTab} />
         <button
-          onClick={fetchMatches}
+          onClick={() => getMatchesByDate(selectedDate)}
           disabled={loading}
           style={refreshButtonStyle}
           title="Refresh scores"
@@ -185,7 +186,7 @@ export default function App() {
             </p>
           </div>
           <button
-            onClick={fetchMatches}
+            onClick={() => getMatchesByDate(selectedDate)}
             style={{ marginTop: '8px', padding: '8px 16px', backgroundColor: '#22c55e', color: '#000', border: 'none', borderRadius: '8px', fontSize: '12px', fontWeight: 'bold', cursor: 'pointer' }}
           >
             Try Again

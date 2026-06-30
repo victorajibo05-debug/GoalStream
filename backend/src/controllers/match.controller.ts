@@ -1,5 +1,5 @@
 import type { Request, Response } from 'express';
-import { getAllmatches, getLivematches} from '../services/match.service';
+import { getAllmatches, getLivematches, getMatchesbydate } from '../services/match.service';
 
 export const getAllmatchesController = async (req: Request, res: Response) => {
     try {
@@ -19,3 +19,11 @@ export const getLivematchesController = async (req: Request, res: Response) => {
     }
 };
 
+export const getMatchesbydateController = async (req: Request, res: Response) => {
+    const { date } = req.query;
+    if (!date || typeof date !== 'string') {
+        return res.status(400).json({ error: 'date query parameter is required (YYYY-MM-DD)' });
+    }
+    const data = await getMatchesbydate(date);
+    res.json(data);
+};

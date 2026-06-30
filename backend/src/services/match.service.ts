@@ -79,3 +79,20 @@ export const getMatchDetails = async (matchId: any) => {
         handleError(error, 'Failed to fetch match details');
     }
 };
+
+export const getMatchesbydate = async (date: string) => {
+    try {
+        const dateObj = new Date(date);
+        const nextDay = new Date(dateObj);
+        nextDay.setDate(dateObj.getDate() + 1);
+        const dateTo = dateObj.toISOString().split('T')[0];
+
+        return await getCached(`matches-by-date-${dateTo}`, async () => {
+            const response = await axios.get<any>(`${BASE}/matches?dateFrom=${dateTo}&dateTo=${nextDay.toISOString().split('T')[0]}`, { headers });
+            return response.data;
+        });
+    } catch (error) {
+        handleError(error, 'Failed to fetch matches by date');
+    }
+
+}
