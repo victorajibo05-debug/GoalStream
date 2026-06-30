@@ -20,7 +20,7 @@ export default function App() {
   
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
-  const [activeTab, setActiveTab] = useState<'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
+  const [activeTab, setActiveTab] = useState<'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'Eredivisie' |  'Campeonato Brasileiro Série A' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
   const [session, setSession] = useState<Session | null>(null);
   const [selectedDate, setSelectedDate] = useState(() => new Date().toISOString().split('T')[0]);
   

@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-type TabOption = 'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League';
+type TabOption = 'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Eredivisie' | 'Ligue 1' | 'Campeonato Brasileiro Série A' | 'UEFA Champions League' | 'UEFA Europa League';
 
 interface TabsProps {
     activeTab: TabOption;
@@ -46,7 +46,7 @@ export function Tabs({ activeTab, onTabChange }: TabsProps) {
         color: isActive ? '#000000' : '#888888',
     });
 
-    const leagues: TabOption[] = ['Premier League', 'FIFA World Cup', 'La Liga', 'Serie A', 'Bundesliga', 'Ligue 1', 'UEFA Champions League', 'UEFA Europa League'];
+    const leagues: TabOption[] = ['Premier League', 'FIFA World Cup', 'La Liga', 'Serie A', 'Bundesliga', 'Ligue 1', 'Eredivisie', 'Campeonato Brasileiro Série A', 'UEFA Champions League', 'UEFA Europa League'];
     const isLeagueActive = leagues.includes(activeTab);
 
     return (
