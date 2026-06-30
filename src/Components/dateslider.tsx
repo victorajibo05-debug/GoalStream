@@ -17,7 +17,7 @@ function formatDateLabel(date: Date): { month: string; day: string } {
     return { month, day };
 }
 
-export function DateSlider({ selectedDate, onDateChange, daysCount = 20 }: DateSliderProps) {
+export function DateSlider({ selectedDate, onDateChange, daysCount = 60 }: DateSliderProps) {
     const scrollRef = useRef<HTMLDivElement>(null);
 
     const dates: Date[] = [];
