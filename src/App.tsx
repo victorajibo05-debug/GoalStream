@@ -45,7 +45,7 @@ export default function App() {
     getMatchesByDate(date)
         .then((res) => {
             setAllmatches(res.data.matches);
-            setLivematches(res.data.matches.filter((match: any) => match.status === 'LIVE'));
+            setLivematches(res.data.matches.filter((match: any) => match.status === 'IN_PLAY' || match.status === 'LIVE' || match.status === 'PAUSED'));
             setLoading(false);
         })
         .catch(() => {
@@ -59,9 +59,10 @@ export default function App() {
 
   const displayedMatches =
     activeTab === 'all'
-      ? Allmatches : Allmatches.filter((match) => match.competition.name === activeTab)
+      ? Allmatches : Allmatches.filter((matches) => matches.competition.name.toLowerCase() === activeTab.toLowerCase())
       || activeTab === 'live'
-      ? Livematches : Livematches.filter((match) => match.competition.name === activeTab) 
+      ? Livematches : Livematches.filter((matches) => matches.competition.name.toLowerCase() === activeTab.toLowerCase()) 
+      
 
   const controlBarStyle: React.CSSProperties = {
     display: 'flex',
