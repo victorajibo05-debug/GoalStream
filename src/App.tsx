@@ -153,7 +153,7 @@ export default function App() {
         </button>
       </div>
 
-      <DateSlider selectedDate={selectedDate} onDateChange={handleDateChange} daysCount={20} />
+      <DateSlider selectedDate={selectedDate} onDateChange={handleDateChange} daysCount={60} />
 
       <div style={controlBarStyle}>
         <Tabs activeTab={activeTab} onTabChange={setActiveTab} />
