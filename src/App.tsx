@@ -16,7 +16,7 @@ import type { Session } from '@supabase/supabase-js';
 
 export default function App() {
    const [Allmatches, setAllmatches] = useState<MatchResponse[]>([]);
-  const [livematches, setlivematches] = useState<MatchResponse[]>([]);
+  
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
   const [activeTab, setActiveTab] = useState<'live' | 'all' | 'FIFA World Cup' | 'Premier League' | 'La Liga' | 'Serie A' | 'Bundesliga' | 'Ligue 1' | 'UEFA Champions League' | 'UEFA Europa League'>('all');
@@ -57,8 +57,8 @@ export default function App() {
 
   const displayedMatches =
     activeTab === 'live'
-      ? livematches
-      : activeTab === 'all'
+      
+     
       ? Allmatches
       : Allmatches.filter((match) => match.competition.name === activeTab);
 

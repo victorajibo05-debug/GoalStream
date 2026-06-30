@@ -1,5 +1,5 @@
 // src/Components/DateSlider.tsx
-import { useState, useRef } from 'react';
+import {  useRef } from 'react';
 
 interface DateSliderProps {
     selectedDate: string;
