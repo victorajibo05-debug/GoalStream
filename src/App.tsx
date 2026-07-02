@@ -80,7 +80,7 @@ export default function App() {
     display: 'flex',
     alignItems: 'center',
     justifyContent: 'space-between',
-    marginBottom: '16px',
+    marginBottom: '3px',
     flexWrap: 'wrap',
     gap: '12px'
   };
@@ -122,7 +122,7 @@ export default function App() {
     justifyContent: 'flex-end',
     alignItems: 'center',
     gap: '12px',
-    marginBottom: '12px',
+    marginBottom: '4px',
     fontFamily: 'Bebas Neue',
     fontSize: '13px',
     color: '#888888',
@@ -166,11 +166,14 @@ export default function App() {
 
      
 
-      <DateSlider selectedDate={selectedDate} onDateChange={handleDateChange} daysCount={150} />
+      
+ <SearchBar onSelectTeam={(team) => setSelectedTeam(team)} />
 
       <div style={controlBarStyle}>
         <Tabs activeTab={activeTab} onTabChange={setActiveTab} />
-         <SearchBar onSelectTeam={(team) => setSelectedTeam(team)} />
+        <DateSlider selectedDate={selectedDate} onDateChange={handleDateChange} daysCount={150} />
+
+        
         <button
           onClick={() => getMatchesByDate(selectedDate)}
           disabled={loading}
@@ -191,6 +194,7 @@ export default function App() {
         </button>
       </div>
 
+      
       {error ? (
         <div style={errorContainerStyle}>
           <AlertCircle style={{ width: '32px', height: '32px', color: '#ef4444' }} />

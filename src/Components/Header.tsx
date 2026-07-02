@@ -5,9 +5,9 @@ export function Header() {
     const headerStyle: React.CSSProperties = {
         display: 'flex',
         justifyContent: "flex-start",
-        padding: '20px 0',
+       
         borderBottom: '1px solid #1a1a1a',
-        marginBottom: '10px',
+        marginBottom: '5px',
         flexDirection: 'column'
     };
 
